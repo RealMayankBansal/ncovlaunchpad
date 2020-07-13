@@ -1,6 +1,3 @@
-# NCOV Launchpad
-------
-
 #### Friday, 10 July 2020
 
 ## Ontario

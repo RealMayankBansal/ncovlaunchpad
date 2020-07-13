@@ -1,3 +1,23 @@
+#### Monday, 13 July 2020
+## General
+### [Scientists discover key element of strong antibody response to COVID-19](https://medicalxpress.com/news/2020-07-scientists-key-element-strong-antibody.html)
+The antibody gene, IGHV3-53, is considered an achievable aim for a SARS-CoV-2 vaccine.
+### [Bat research critical to preventing next pandemic](https://phys.org/news/2020-07-critical-pandemic.html)
+Evidence links bat species to SARS, MERS, as well as he Marbug, Hendra, Sosuga, Nipah and some Ebola viruses.
+### [National survey measures mental health impact of COVID-19 pandemic](https://medicalxpress.com/news/2020-07-national-survey-mental-health-impact.html)
+90% of respondants report feeling increased frustration, worry, boredom, or anxiety.
+### [Why lopinavir and hydroxychloroquine do not work on COVID-19](https://medicalxpress.com/news/2020-07-lopinavir-hydroxychloroquine-covid-.html)
+Sufficient concentrations are not reached to inhibit SARS-CoV-2 virus replication in the lungs.
+
+## Ontario
+### [24 Ontario health units to enter stage 3 COVID reopening — not Hamilton and Niagara](https://www.cbc.ca/news/canada/hamilton/stage-3-ontario-covid-hamilton-1.5647605)
+On Friday, July 17th, a total of 24 health units will enter Stage 3 of the province's reopening plan. The areas that are unable to enter Stage 3 include regions in the Greater Toronto Area, Hamilton, Windsor, and Windsor-Essex.
+
+### [Ontario reopening Stage 3: Gathering limit increasing as indoor dining, gyms permitted to reopen](https://globalnews.ca/news/7169242/ontario-coronavirus-stage-3-reopening-plan/)
+Ontario's Stage 3 reopening plan includes the resumption of indoor dining at bars and restuarants, opening of gyms, and an increased limit on gathering sizes. Gathering limits will increase to a maximum of 50 individuals indoors and a maximum of 100 individuals outdoors. The government states that people will still be required to maintain a physical distance of 2 meters with individuals not in their social circles, which remains at a maximum of 10 people.
+
+------
+
 #### Friday, 10 July 2020
 
 ## Ontario

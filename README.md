@@ -1,3 +1,19 @@
+#### Friday, 17 July 2020
+## General
+### [Russian hackers have tried to steal COVID-19 research](https://www.ctvnews.ca/health/coronavirus/russian-hackers-have-tried-to-steal-covid-19-research-1.5026553)
+Russia poses cyber threat to researchers working on COVID-19 vaccines and treatment.
+### [PM Trudeau confirms Canada-U.S. border closure extending to Aug. 21](https://www.ctvnews.ca/politics/pm-trudeau-confirms-canada-u-s-border-closure-extending-to-aug-21-1.5027167)
+Fourth renewal of border restrictions since March.
+### [Coronavirus is messing with the weather forecast too](https://phys.org/news/2020-07-coronavirus-messing-weather.html)
+Weather forecasts less accurate due to reduction in commercial flights.
+
+## Ontario
+### [Today’s coronavirus news: Ontario takes over management of another long-term-care home; province reports 111 new cases of COVID-19](https://www.thestar.com/news/canada/2020/07/17/coronavirus-covid-19-updates-toronto-ontario-gta-canada-july-17-2020.html)
+_TorontoStar_
+Along with reporting 111 new COVID-19 cases and 9 new deaths, the province of Ontario has taken over management of another long-term-care home after failing to control a COVID-19 outbreak. The Villa Colombo Homes for the Aged in Toronto's North York region will be temporarily run by Humber River Hospital following the death of 27 residents at the home and positive COVID-19 tests for another 16 residents and 5 staff.
+
+------
+
 #### Monday, 13 July 2020
 ## General
 ### [Scientists discover key element of strong antibody response to COVID-19](https://medicalxpress.com/news/2020-07-scientists-key-element-strong-antibody.html)

@@ -1,4 +1,10 @@
 #### Sunday, 19 July 2020
+## General
+### [Global COVID-19 deaths top 600,000 as Hong Kong warns of resurgence](https://www.ctvnews.ca/health/coronavirus/global-covid-19-deaths-top-600-000-as-hong-kong-warns-of-resurgence-1.5030121)
+Contries such as the United States, India and South Africa struggle to contain infections.
+### [Coronavirus: What's happening around the world on Sunday](https://www.cbc.ca/news/world/coronavirus-july-19-covid-19-1.5655208)
+On Saturday, WHO reported 259,848 new infections, a single-day record.
+
 ## Ontario
 ### [Ontario reports more than 150 new cases of COVID-19 for second straight day](https://toronto.ctvnews.ca/ontario-reports-more-than-150-new-cases-of-covid-19-for-second-straight-day-1.5030199)
 After reporting new case numbers in the low 100s for over a week, health officials report more than 150 new COVID-19 cases for two days straight. In a tweet this morning, Health Minister Christine Elliot states that "Locally, 28 of Ontario’s 34 public health units are reporting five or fewer cases, with 15 of them reporting no new cases at all."

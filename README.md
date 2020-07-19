@@ -1,3 +1,10 @@
+#### Sunday, 19 July 2020
+## Ontario
+### [Ontario reports more than 150 new cases of COVID-19 for second straight day](https://toronto.ctvnews.ca/ontario-reports-more-than-150-new-cases-of-covid-19-for-second-straight-day-1.5030199)
+After reporting new case numbers in the low 100s for over a week, health officials report more than 150 new COVID-19 cases for two days straight. In a tweet this morning, Health Minister Christine Elliot states that "Locally, 28 of Ontario’s 34 public health units are reporting five or fewer cases, with 15 of them reporting no new cases at all."
+
+------
+
 #### Friday, 17 July 2020
 ## General
 ### [Russian hackers have tried to steal COVID-19 research](https://www.ctvnews.ca/health/coronavirus/russian-hackers-have-tried-to-steal-covid-19-research-1.5026553)

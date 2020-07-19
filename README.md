@@ -1,5 +1,7 @@
 #### Sunday, 19 July 2020
 ## General
+### [How close are we to a vaccine for COVID-19?](https://newsinteractives.cbc.ca/coronavirusvaccinetracker/)
+Internationally, 23 vaccines candidates have made it to human trials.
 ### [Global COVID-19 deaths top 600,000 as Hong Kong warns of resurgence](https://www.ctvnews.ca/health/coronavirus/global-covid-19-deaths-top-600-000-as-hong-kong-warns-of-resurgence-1.5030121)
 Contries such as the United States, India and South Africa struggle to contain infections.
 ### [Coronavirus: What's happening around the world on Sunday](https://www.cbc.ca/news/world/coronavirus-july-19-covid-19-1.5655208)

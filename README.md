@@ -23,6 +23,7 @@ Weather forecasts less accurate due to reduction in commercial flights.
 ## Ontario
 ### [Today’s coronavirus news: Ontario takes over management of another long-term-care home; province reports 111 new cases of COVID-19](https://www.thestar.com/news/canada/2020/07/17/coronavirus-covid-19-updates-toronto-ontario-gta-canada-july-17-2020.html)
 _TorontoStar_
+
 Along with reporting 111 new COVID-19 cases and 9 new deaths, the province of Ontario has taken over management of another long-term-care home after failing to control a COVID-19 outbreak. The Villa Colombo Homes for the Aged in Toronto's North York region will be temporarily run by Humber River Hospital following the death of 27 residents at the home and positive COVID-19 tests for another 16 residents and 5 staff.
 
 ------

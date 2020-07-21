@@ -1,4 +1,30 @@
 #### Sunday, 19 July 2020
+#### Tuesday, 21 July 2020
+## General
+### [Researchers develop new tools to rapidly test activity of anti-coronavirus antibodies](https://medicalxpress.com/news/2020-07-tools-rapidly-anti-coronavirus-antibodies.html)
+Measuring  antibody activity is crucial to evaluate naturally acquired or artificially induced immunity against SARS-CoV-2.
+### [Range of COVID-19 skin signs linked to disease severity](https://medicalxpress.com/news/2020-07-range-covid-skin-linked-disease.html)
+Certain skin changes (such as purple toes or a net-like rash) may signal COVID-19 infection.
+
+## Ontario
+### [Ontario allows more regions to advance to Stage 3 this Friday](https://toronto.ctvnews.ca/ontario-allows-more-regions-to-advance-to-stage-3-this-friday-1.50308250)
+_CTV News_
+
+Durham, Halton, Hamilton, Niagara, Haldimand-Norfolk, Lambton and York regions are set to enter Stage 3 of the province's reopening plan this coming Friday. However, Toronto, Peel and Windsor-Essex regions will be held back from entering Stage 3 for at least one more week, as the province waits to collect four weeks worth of data from the previous re-opening.
+
+### [Ontario records highest number of new COVID-19 cases since June](https://toronto.ctvnews.ca/ontario-records-highest-number-of-new-covid-19-cases-since-june-1.5032640)
+_CTV News_
+
+The province announces 203 new lab-confirmed cases Tuesday morning - a significant increase compared to the 135 new infections added on Monday. Of the 203 new cases, Health Minister Christine Elliot confirms that 116 are in people aged 39 years and younger. 
+
+## Durham Region
+### [Durham to enter Stage 3 of reopening plan Friday](https://www.durhamradionews.com/archives/128088)
+_Durham Radio News_
+
+Premier Doug Ford says, among other regions, Durham Region will enter Stage 3 of reopening on Friday, July 24th. 
+
+------
+
 ## General
 ### [How close are we to a vaccine for COVID-19?](https://newsinteractives.cbc.ca/coronavirusvaccinetracker/)
 Internationally, 23 vaccines candidates have made it to human trials.

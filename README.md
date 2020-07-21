@@ -1,4 +1,3 @@
-#### Sunday, 19 July 2020
 #### Tuesday, 21 July 2020
 ## General
 ### [Researchers develop new tools to rapidly test activity of anti-coronavirus antibodies](https://medicalxpress.com/news/2020-07-tools-rapidly-anti-coronavirus-antibodies.html)

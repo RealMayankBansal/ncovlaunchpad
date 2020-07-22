@@ -1,3 +1,14 @@
+#### Wednesday, 22 July 2020
+## Ontario
+### [Ontario records dip in COVID-19 cases but recent upward trend continues](https://toronto.ctvnews.ca/ontario-records-dip-in-covid-19-cases-but-recent-upward-trend-continues-1.5034146)
+Ontario reports a decreases in new cases with health officials confirming 165 new cases on Wednesday. However, Ontario continues to see an increase from last weeks trends.
+
+## Durham Region
+### Durham reports two cases of COVID-19 on Wednesday, active cases fall to 35](https://www.durhamradionews.com/archives/128137)
+For the second day in a row, Durham Region reports two new cases of COIVD-19. Of the 35 active cases, are all isolating at home-none are in the hospital.
+
+------
+
 #### Tuesday, 21 July 2020
 ## General
 ### [Researchers develop new tools to rapidly test activity of anti-coronavirus antibodies](https://medicalxpress.com/news/2020-07-tools-rapidly-anti-coronavirus-antibodies.html)

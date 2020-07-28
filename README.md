@@ -1,3 +1,17 @@
+### Tuesday, 28 July 2020
+## General
+[Researchers identify evolutionary origins of SARS-CoV-2](https://phys.org/news/2020-07-evolutionary-sars-cov-.html)
+
+## Ontario
+### ['Not right now': Ontario premier says no specific criteria for rolling regions back to Stage 2](https://toronto.ctvnews.ca/not-right-now-ontario-premier-says-no-specific-criteria-for-rolling-regions-back-to-stage-2-1.5041796)
+Ontario reported an additional 111 new cases on Tuesday - with six in Toronto. When asked if there was specific criteria in place that would cause regions to return to Stage 2 of the province's reopening plan, Premier Doug Ford avoids reponds with, "not right now" and reiterates the importance of following the advice from the healthcare table.
+
+## Durham Region
+### [Durham Region COVID-19 Data Tracker](https://app.powerbi.com/view?r=eyJrIjoiMjU2MmEzM2QtNDliNS00ZmIxLWI5MzYtOTU0NTI1YmU5MjQ2IiwidCI6IjUyZDdjOWMyLWQ1NDktNDFiNi05YjFmLTlkYTE5OGRjM2YxNiJ9)
+The total confirmed cases of COVID-19 in Durham Region residents is 1,791, with only 1 new case reported since yesterday. Durham currently has no hospitalizations.
+
+------
+
 #### Monday, 27 July 2020
 ## General
 [Final Phase of Moderna COVID-19 Vaccine Recieves Additional Funding](https://covidvax.news/final-phase-of-moderna-covid-19-vaccine-additional-funding/)

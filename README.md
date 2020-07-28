@@ -1,6 +1,7 @@
 ### Tuesday, 28 July 2020
 ## General
 [Researchers identify evolutionary origins of SARS-CoV-2](https://phys.org/news/2020-07-evolutionary-sars-cov-.html)
+[2nd wave of coronavirus in countries around Asia prompts fresh lockdowns](https://globalnews.ca/news/7220628/asia-second-wave-coronavirus-lockdowns/)
 
 ## Ontario
 ### ['Not right now': Ontario premier says no specific criteria for rolling regions back to Stage 2](https://toronto.ctvnews.ca/not-right-now-ontario-premier-says-no-specific-criteria-for-rolling-regions-back-to-stage-2-1.5041796)

@@ -1,3 +1,18 @@
+#### Monday, 27 July 2020
+## General
+[Final Phase of Moderna COVID-19 Vaccine Recieves Additional Funding](https://covidvax.news/final-phase-of-moderna-covid-19-vaccine-additional-funding/)
+
+[Fauci: November Likely Earliest to See if Moderna Vaccine Works](https://news.bloomberglaw.com/pharma-and-life-sciences/fauci-november-likely-earliest-to-see-if-moderna-vaccine-works)
+
+[Oxford vaccine enters final phase of COVID-19 trials. Here's what happens now.](https://www.nationalgeographic.com/science/2020/07/oxford-vaccine-enters-final-phase-of-covid-19-trials-in-brazil-cvd/)
+
+## Ontario
+### [Ontario sees another dip in number of new COVID-19 cases](https://toronto.ctvnews.ca/ontario-sees-another-dip-in-number-of-new-covid-19-cases-1.5040355)
+_CTV News_
+Ontario health officials report 119 new infections on Monday. This dip marks the third day in a row that ONtario's daily case numbers has been below 150 cases, following a spike of 195 cases on Friday.
+
+------
+
 #### Wednesday, 22 July 2020
 ## Ontario
 ### [Ontario records dip in COVID-19 cases but recent upward trend continues](https://toronto.ctvnews.ca/ontario-records-dip-in-covid-19-cases-but-recent-upward-trend-continues-1.5034146)

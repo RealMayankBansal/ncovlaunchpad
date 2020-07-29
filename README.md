@@ -1,3 +1,29 @@
+#### Wednesday, 29 July 2020
+## General
+[Coronavirus makes a comeback around the world](https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html)![Image](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPLDRFGRSEI6VEBYV4EJWY5MEE.jpg&w=916)
+
+[New study explores how coronavirus travels indoors](https://medicalxpress.com/news/2020-07-explores-coronavirus-indoors.html)
+
+## Ontario
+### [Toronto, Peel Region get green light to move to Stage 3 of Ontario's COVID-19 recovery plan](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-july-29-stage-3-toronto-peel-1.5666932)
+_CBC News_
+
+As of this Friday, Toronto and Peel Region will move to Stage 3 of the Ontario's reopening plan while Windsor-Essex will become the only remaining area in the province to remain in Stage 2.
+
+### [Medical experts led by SickKids release new back-to-school recommendations](https://www.cbc.ca/news/canada/toronto/sickkids-experts-recommendations-1.5667023)
+_CBC News_
+
+SickKids released a document in collaboration with doctors from across the province proposing guidelines for reopening Ontario schools in September. It builds on the COVID-19 recommendations the organization first released last month and suggests new safety and health protocols for schools in which the students' age and developmental considerations into account.
+Ontario's education minister Stephen Lecee is to unveil the province's plans for the upcoming school year Thursday, 30th July.
+
+## Durham Region
+### [Durham Region COVID-19 Data Tracker](https://app.powerbi.com/view?r=eyJrIjoiMjU2MmEzM2QtNDliNS00ZmIxLWI5MzYtOTU0NTI1YmU5MjQ2IiwidCI6IjUyZDdjOWMyLWQ1NDktNDFiNi05YjFmLTlkYTE5OGRjM2YxNiJ9)
+_Durham Region Health Department_
+
+The total confirmed cases of COVID-19 in Durham Region residents is 1,800. Three new cases were reported on Wednesday with the total number of active cases increasing to 21.
+
+------
+
 #### Tuesday, 28 July 2020
 ## General
 [Researchers identify evolutionary origins of SARS-CoV-2](https://phys.org/news/2020-07-evolutionary-sars-cov-.html)

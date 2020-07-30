@@ -2,7 +2,7 @@
 ## General
 [The ethics of a COVID-19 vaccine and who gets it first](https://www.thestar.com/podcasts/thismatters/2020/07/30/the-ethics-of-a-covid-19-vaccine-and-who-gets-it-first.html)
 
-[Florida faces pressure, sees record high virus deaths](https://www.ctvnews.ca/health/coronavirus/florida-faces-pressure-sees-record-high-virus-deaths-1.5045484))
+[Florida faces pressure, sees record high virus deaths](https://www.ctvnews.ca/health/coronavirus/florida-faces-pressure-sees-record-high-virus-deaths-1.5045484)
 
 [COVID-19 curves: Compare Canada and other key nations](https://www.ctvnews.ca/health/coronavirus/covid-19-curves-compare-canada-and-other-key-nations-1.4881500)
 

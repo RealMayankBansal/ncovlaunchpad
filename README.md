@@ -1,3 +1,32 @@
+#### Thursday, 30 July 2020
+## General
+[The ethics of a COVID-19 vaccine and who gets it first](https://www.thestar.com/podcasts/thismatters/2020/07/30/the-ethics-of-a-covid-19-vaccine-and-who-gets-it-first.html)
+
+[Florida faces pressure, sees record high virus deaths](https://www.ctvnews.ca/health/coronavirus/florida-faces-pressure-sees-record-high-virus-deaths-1.5045484))
+
+[COVID-19 curves: Compare Canada and other key nations](https://www.ctvnews.ca/health/coronavirus/covid-19-curves-compare-canada-and-other-key-nations-1.4881500)
+
+## Ontario
+### [Ontario records fewer than 100 new COVID-19 cases for second straight day](https://toronto.ctvnews.ca/ontario-records-fewer-than-100-new-covid-19-cases-for-second-straight-day-1.5045231)
+_CTV News_
+
+Ontario reports 89 cases on Thursday, a slight increase from Wednesday when health officials reported 76 new cases. Of the 84 patients in Ontario hospitals with COVID-19, 27 are being treated in the intensive care unit, of which 16 are breathing with the assisstance of a ventilator.
+
+### [Ontario Releases Plan for Safe Reopening of Schools in September](https://news.ontario.ca/opo/en/2020/07/ontario-releases-plan-for-safe-reopening-of-schools-in-september.html)
+_Ontario Newsroom_
+
+The Ontario Government is announcing the safe reopening of schools for in-class instruction beginning this September. The [plan](https://www.ontario.ca/page/guide-reopening-ontarios-schools?share=df1f50a0-d1a2-11ea-8b1a-e3b1c683b5f9&_ga=2.47263335.1505180083.1596139993-1000485493.1596139993) unveiled by the government prioritizes the health and safety of staff and students, and provides school boards with unprecedented resources and support.
+Students in Grades 4 to 12 will be required to wear a non-medical face while at school, whereas younger children will be encouraged, but not required, to do the same.
+Elementary leve students and high schools in non-designated boards, which typically have smaller enrollment, will remain a single cohort offering full-time learning. Secondary students in the 24 "designated boards" will attend school on alternating days, in cohorts of approximately 15.
+
+## Durham Region
+### [Durham reports three new cases of COVID-19 on Thursday, active case remain at 21](https://www.durhamradionews.com/archives/128314)
+_Durham Radio News_
+
+Durham Health Department announces 3 new confirmed cases of COVID-19 on Thursday. The number of active cases remains at 21 as 3 cases are now considered "resolved".
+
+------
+
 #### Wednesday, 29 July 2020
 ## General
 [Coronavirus makes a comeback around the world](https://www.washingtonpost.com/world/a-coronavirus-comeback-around-the-world/2020/07/28/8ddd9e64-d043-11ea-826b-cc394d824e35_story.html)![Image](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPLDRFGRSEI6VEBYV4EJWY5MEE.jpg&w=916)

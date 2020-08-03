@@ -1,3 +1,19 @@
+#### Monday, 3 August 2020
+## General
+[The six strains of SARS-CoV-2](https://phys.org/news/2020-08-strains-sars-cov-.html)
+
+[Melbourne under state of disaster, curfew to contain spike in coronavirus cases](https://www.cbc.ca/news/world/melbourne-covid-19-curfew-1.5672721)
+
+[The Canada-U.S. border could be closed for months. Here's what you need to know now](https://www.cbc.ca/news/business/canada-u-s-border-travel-couples-alaska-1.5670867)
+
+## Durham Region
+### [Welcome to the Durham Region COVID-19 Data Tracker](https://www.durham.ca/en/health-and-wellness/novel-coronavirus-update.aspx)
+_Durham Region_
+
+"_The Durham Region COVID-19 Data Tracker will not be updated between Friday, July 31 and Monday, August 3 as we convert to a new provincial reporting system. Going forward, we will be switching to a Monday to Friday reporting schedule with no updates on statutory holidays._"
+
+------
+
 #### Sunday, 2 August 2020
 ## Ontario
 ### [Ontario records slight dip in COVID-19 patients, surpasses 100 cases for third day](https://toronto.ctvnews.ca/ontario-records-slight-dip-in-covid-19-patients-surpasses-100-cases-for-third-day-1.5048765)

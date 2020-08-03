@@ -1,3 +1,18 @@
+#### Sunday, 2 August 2020
+## Ontario
+### [Ontario records slight dip in COVID-19 patients, surpasses 100 cases for third day](https://toronto.ctvnews.ca/ontario-records-slight-dip-in-covid-19-patients-surpasses-100-cases-for-third-day-1.5048765)
+_CTV News_
+
+Health officials confirmed another 116 cases of COVID-19 on Sunday, the third day in a row with cases surpassing 100. According to the province's epidemiology report, the majority of new infections are found in people between the ages of 20 anf 39.
+
+### [Coronavirus: Concerns raised over Ontario’s back-to-school plan](https://globalnews.ca/news/7244152/coronavirus-back-to-school-efto/)
+_Global News_
+
+With only one more month left until a new school year begins in September for elementary and high school students, concerns are being raised towards the province's back-to-school plans amid the novel coronavirus pandemic.
+Ontario teachers' union reacts to the reopening plans and raises numerous concerns regarding the lack of funding, communication, resources and support in place for mental health, time to prepare for the upcoming school year.
+
+------
+
 #### Thursday, 30 July 2020
 ## General
 [The ethics of a COVID-19 vaccine and who gets it first](https://www.thestar.com/podcasts/thismatters/2020/07/30/the-ethics-of-a-covid-19-vaccine-and-who-gets-it-first.html)

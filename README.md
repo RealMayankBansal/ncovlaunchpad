@@ -1,3 +1,27 @@
+#### Tuesday, 4 August 2020
+## General
+[WHO urges Russia to follow guidelines on virus vaccine](https://medicalxpress.com/news/2020-08-urges-russia-guidelines-virus-vaccine.html)
+
+[Researchers develop new mouse model for SARS-CoV-2](https://medicalxpress.com/news/2020-08-mouse-sars-cov-.html)
+
+[US announces clinical trial of antibody treatment for COVID-19](https://medicalxpress.com/news/2020-08-clinical-trial-antibody-treatment-covid-.html)
+
+[US adds 46,321 COVID-19 cases in 24 hours](https://medicalxpress.com/news/2020-08-covid-cases-hours-1.html)
+
+## Ontario
+### [Ontario sees fewer than 100 new COVID-19 cases on each of last 2 days](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-august-4-update-1.5673670)
+_CBC News_
+
+This morning, the Minister of Health stated that Ontario has reported less than 100 new COVID-19 cases for two straight days
+In addition, the province says it is investing a total of $309 million into education for the fall, including the purchase of PPE, hiring of staff and custodians, public health nurses, and mental health supports.
+
+## Durham Region
+### [Durham reports 16 new COVID-19 cases since Thursday](https://www.durhamradionews.com/archives/128390)
+As the Durham Region Health Department converted over to a new reporting system between July 31 and August 3, no daily numbers were reported. According to the new numbers released on Tuesday, there have been 16 new confirmed cases of COVID-19 since Thursday.
+There are currently 21 active known cases in Durham Region.
+
+------
+
 #### Monday, 3 August 2020
 ## General
 [The six strains of SARS-CoV-2](https://phys.org/news/2020-08-strains-sars-cov-.html)

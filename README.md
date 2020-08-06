@@ -1,4 +1,11 @@
 ### Wednesday, 5 August 2020
+## General
+[Global coronavirus death toll tops 700,000](https://medicalxpress.com/news/2020-08-global-coronavirus-death-toll-tops.html)
+
+[US adds 1,300 virus deaths in 24 hours](https://medicalxpress.com/news/2020-08-virus-deaths-hours.html)
+
+[Study suggests embryos could be susceptible to coronavirus](https://medicalxpress.com/news/2020-08-embryos-susceptible-coronavirus.html)
+
 ## Ontario
 ### [Ontario records fewer than 100 new COVID-19 cases for third straight day](https://toronto.ctvnews.ca/ontario-records-fewer-than-100-new-covid-19-cases-for-third-straight-day-1.5051795)
 _CTV News_

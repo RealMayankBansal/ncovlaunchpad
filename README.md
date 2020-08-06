@@ -1,3 +1,13 @@
+### Wednesday, 5 August 2020
+## Ontario
+### [Ontario records fewer than 100 new COVID-19 cases for third straight day](https://toronto.ctvnews.ca/ontario-records-fewer-than-100-new-covid-19-cases-for-third-straight-day-1.5051795)
+_CTV News_
+
+For the third straight day, halth officials report less than 100 new cases of COVID-19.
+Provincial health officials confirmed 86 new cases of the novel coronavirus on Wednesday, the lowest in the past two days.
+
+------
+
 #### Tuesday, 4 August 2020
 ## General
 [WHO urges Russia to follow guidelines on virus vaccine](https://medicalxpress.com/news/2020-08-urges-russia-guidelines-virus-vaccine.html)

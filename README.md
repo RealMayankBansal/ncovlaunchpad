@@ -1,3 +1,21 @@
+#### Thursday, 6 August 2020
+## General
+
+## Ontario
+### [Fewer than 100 new cases of COVID-19 reported in Ontario for fourth day in a row](https://toronto.ctvnews.ca/fewer-than-100-new-cases-of-covid-19-reported-in-ontario-for-fourth-day-in-a-row-1.5053442)
+_CTV News_
+
+Ontario reports less tham 100 new cases of COVID-19 for the fourth consecutive day as health officials logged 95 new infections on Thursday.
+Of the 71 currently hospitalized patients with the novel coronavirus, 29 are being treated in the intensive care unit, of which 13 are breathing with the assistance of a ventilator.
+
+## Durham Region
+### [Durham Region COVID-19 Data Tracker](https://app.powerbi.com/view?r=eyJrIjoiMjU2MmEzM2QtNDliNS00ZmIxLWI5MzYtOTU0NTI1YmU5MjQ2IiwidCI6IjUyZDdjOWMyLWQ1NDktNDFiNi05YjFmLTlkYTE5OGRjM2YxNiJ9)
+_Durham Region Health Department_
+
+Durham Region reports 5 new cases and no deaths on Thursday. The total cases in home isolation, including long term care homes and retirement residences, is 27. 
+
+------
+
 ### Wednesday, 5 August 2020
 ## General
 [Global coronavirus death toll tops 700,000](https://medicalxpress.com/news/2020-08-global-coronavirus-death-toll-tops.html)

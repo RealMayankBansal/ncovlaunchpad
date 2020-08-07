@@ -1,3 +1,18 @@
+#### Friday, 7 August 2020
+## General
+
+
+## Ontario
+### [Premier, education minister defend Ontario's back-to-school plan amid class size concerns](https://www.cbc.ca/news/canada/toronto/ford-lecce-school-plan-distancing-covid-19-ontario-update-1.5677727)
+_CBC News_
+
+In Ontario, schools are reopening in September with precautionary measures. However, not all parents and teachers believe this is being done properly.
+As there are no cap sizes for classes in Grades 4 through 8, it will not be uncommon for children in high enrolement boards to find themselves in classes of 30 or more students. This is only one of the many concerns raised by concerned individuals 
+
+## Durham Region
+
+------
+
 #### Thursday, 6 August 2020
 ## General
 [US adds 1,262 virus deaths in 24 hours](https://medicalxpress.com/news/2020-08-virus-deaths-hours-1.html)

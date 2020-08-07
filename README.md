@@ -1,15 +1,23 @@
 #### Friday, 7 August 2020
-## General
-
 
 ## Ontario
 ### [Premier, education minister defend Ontario's back-to-school plan amid class size concerns](https://www.cbc.ca/news/canada/toronto/ford-lecce-school-plan-distancing-covid-19-ontario-update-1.5677727)
 _CBC News_
 
 In Ontario, schools are reopening in September with precautionary measures. However, not all parents and teachers believe this is being done properly.
-As there are no cap sizes for classes in Grades 4 through 8, it will not be uncommon for children in high enrolement boards to find themselves in classes of 30 or more students. This is only one of the many concerns raised by concerned individuals 
+As there are no cap sizes for classes in Grades 4 through 8, it will not be uncommon for children in high enrolement boards to find themselves in classes of 30 or more students. 
+Despite the concerns raised by parents, staff and the teachers union, Ford defends Ontario's reopening plan and states that the government is "flexible" but does not intend to revisit the strategy
+
+### [Ontario records fewer than 100 new COVID-19 cases for fifth straight day](https://www.google.ca/amp/s/beta.ctvnews.ca/local/toronto/2020/8/7/1_5055126.html)
+_CTV News_
+
+For the fifth day in a row, Ontario reports less than 100 cases of COVID-19. Health officials reported another 88 cases of the novel coronavirus on Friday, bringing the total number of lab-detected cases in Ontario, including deaths and recoveries, to 39,897. 
 
 ## Durham Region
+### [One new COVID-19 case reported in Durham on Friday](https://www.durhamradionews.com/archives/128481)
+_Durham Radio News_
+
+Durham Region reports 1 new case on Friday and no deaths, leaving the death toll in the region at 181. There are currently 28 active cases in Durham of which none require hospitalization. 
 
 ------
 

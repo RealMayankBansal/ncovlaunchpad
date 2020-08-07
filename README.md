@@ -1,5 +1,8 @@
 #### Thursday, 6 August 2020
 ## General
+[US adds 1,262 virus deaths in 24 hours](https://medicalxpress.com/news/2020-08-virus-deaths-hours-1.html)
+
+[Brazil facing 200,000 virus deaths by October: expert](https://medicalxpress.com/news/2020-08-brazil-virus-deaths-october-expert.html)
 
 ## Ontario
 ### [Fewer than 100 new cases of COVID-19 reported in Ontario for fourth day in a row](https://toronto.ctvnews.ca/fewer-than-100-new-cases-of-covid-19-reported-in-ontario-for-fourth-day-in-a-row-1.5053442)

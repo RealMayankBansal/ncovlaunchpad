@@ -1,3 +1,8 @@
+#### Monday, 10 August 2020
+## General
+
+[Long-term symptoms, complications of COVID-19](https://medicalxpress.com/news/2020-08-long-term-symptoms-complications-covid-.html)
+
 #### Friday, 7 August 2020
 
 ## Ontario

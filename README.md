@@ -1,7 +1,16 @@
+#### Tuesday, 11 August 2020
+## General
+
+[Pre-orders of COVID-19 vaccine top five billion](https://medicalxpress.com/news/2020-08-pre-orders-covid-vaccine-billion.html)
+
+------
+
 #### Monday, 10 August 2020
 ## General
 
 [Long-term symptoms, complications of COVID-19](https://medicalxpress.com/news/2020-08-long-term-symptoms-complications-covid-.html)
+
+------
 
 #### Friday, 7 August 2020
 

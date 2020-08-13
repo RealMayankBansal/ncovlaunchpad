@@ -1,3 +1,17 @@
+#### Thursday, 13 August 2020
+## General
+
+[Scientists identify the order of COVID-19's symptoms](https://medicalxpress.com/news/2020-08-scientists-covid-symptoms.html)
+
+## Ontario 
+### [Ontario records decline in new COVID-19 cases but says numbers are underestimated](https://www.google.ca/amp/s/beta.ctvnews.ca/local/toronto/2020/8/13/1_5062735.html)
+_CTV News_
+
+"Updated data from the Toronto Public Health CORES system were not available today, resulting in an underestimation of the daily case count"
+Despite the unavailable data, health officials report 78 new cases of COVID-19 on Thursday. 
+
+------
+
 #### Tuesday, 11 August 2020
 ## General
 

@@ -1,3 +1,15 @@
+#### Friday, 14 August 2020
+## General
+[COVID-19 'peaks and valleys' expected until 2022: new modelling](https://www.ctvnews.ca/politics/covid-19-peaks-and-valleys-expected-until-2022-new-modelling-1.5064623)
+
+## Ontario
+### [Province reports 92 new COVID-19 cases and one new death on Friday](https://www.durhamradionews.com/archives/128578)
+_ Durham Radio News_
+
+On Friday, Ontario health officials confirm 92 new cases of COVID-19, a 0.2 percent increase over the previous day.
+
+------
+
 #### Thursday, 13 August 2020
 ## General
 

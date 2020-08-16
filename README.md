@@ -1,3 +1,19 @@
+#### Saturday, 15 August 2020
+## General
+[B.C. records more than 70 new daily COVID-19 cases 3 days in a row for 1st time since the pandemic began](https://www.cbc.ca/news/canada/british-columbia/b-c-announces-84-new-cases-of-covid-19-and-an-outbreak-at-a-long-term-care-facility-1.5687210)
+
+[India to invest $1.46 trillion to lift virus-hit economy](https://www.ctvnews.ca/health/coronavirus/india-to-invest-1-46-trillion-to-lift-virus-hit-economy-1.5065680)
+
+[What's happened in American schools since reopening](https://www.ctvnews.ca/health/coronavirus/what-s-happened-in-american-schools-since-reopening-1.5065769)
+
+## Ontario
+### [Ontario reports 106 new cases of COVID-19, one new death](https://www.cp24.com/news/ontario-reports-106-new-cases-of-covid-19-one-new-death-1.5065730)
+_CP 24_
+
+Ontario reports 106 new cases of COVID-19 and one death, bringing the daily case count into the one hundreds after four days of double digits.
+
+------
+
 #### Friday, 14 August 2020
 ## General
 [COVID-19 'peaks and valleys' expected until 2022: new modelling](https://www.ctvnews.ca/politics/covid-19-peaks-and-valleys-expected-until-2022-new-modelling-1.5064623)

@@ -1,3 +1,15 @@
+#### Sunday, 16 August 2020
+## General
+[COMMENTARY: Cutting corners by fast-tracking a COVID-19 vaccine could be unsafe](https://globalnews.ca/news/7271713/covid-19-vaccine-2/)
+
+## Ontario
+### [Ontario sees 81 new cases of COVID-19, no new deaths](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-august-16-numbers-1.5688415)
+_CBC News_
+
+Ontario reports 81 new cases of COVID-19 on Sunday, bringing the daily infections back into the double digits after seeing a slight increase on Saturday.
+
+------
+
 #### Saturday, 15 August 2020
 ## General
 [B.C. records more than 70 new daily COVID-19 cases 3 days in a row for 1st time since the pandemic began](https://www.cbc.ca/news/canada/british-columbia/b-c-announces-84-new-cases-of-covid-19-and-an-outbreak-at-a-long-term-care-facility-1.5687210)

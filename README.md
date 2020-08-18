@@ -1,3 +1,25 @@
+#### Monday, 17 August 2020
+## General
+[Another group of international flights land in Canada with COVID-19 patients](https://toronto.ctvnews.ca/another-group-of-international-flights-land-in-canada-with-covid-19-patients-1.5067157)
+
+[Coronavirus: The pandemic is changing our brains, and here are the remedies](https://medicalxpress.com/news/2020-08-coronavirus-pandemic-brains-remedies.html)
+
+[B.C. hits highest ever count for active COVID-19 cases after confirming 236 new infections](https://www.cbc.ca/news/canada/british-columbia/bc-covid-19-second-wave-infections-1.5688896)
+
+## Ontario
+### [Ontario records another 99 new COVID-19 cases, death toll steady](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-august-17-amo-1.5689081)
+_CBC News_
+
+Ontario health officials report 99 new cases of COVID-19 on Monday, with 21 of the province's 34 public health units confirm no additional cases.
+
+## Durham Region
+### [Durham reports seven new COVID-19 cases since Friday](https://www.durhamradionews.com/archives/128622)
+_Durham Radio News_
+
+Durham's health department reports seven new COVID-19 cases since Friday, bringing the total active cases in Durham to 22.
+
+------
+
 #### Sunday, 16 August 2020
 ## General
 [COMMENTARY: Cutting corners by fast-tracking a COVID-19 vaccine could be unsafe](https://globalnews.ca/news/7271713/covid-19-vaccine-2/)

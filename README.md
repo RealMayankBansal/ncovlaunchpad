@@ -1,3 +1,18 @@
+#### Tuesday, 18 August 2020
+## General
+[Humid air can extend lifetime of virus-laden aerosol droplets](https://phys.org/news/2020-08-humid-air-lifetime-virus-laden-aerosol.html)
+
+[New findings on SARS-CoV-2 protein shed light on virus's ability to infect cells](https://phys.org/news/2020-08-sars-cov-protein-virus-ability-infect.html)
+
+## Ontario
+### [Ontario reports highest number of new COVID-19 cases since July](https://toronto.ctvnews.ca/ontario-reports-highest-number-of-new-covid-19-cases-since-july-1.5068733)
+_CTV News_
+
+Ontario health officials confirm 125 additional cases of COVID-19 on Tuesday, which is the highest number of new infections since July 31.
+Of the new cases, the majority were between the ages of 20 and 39, with twenty-one cases being reported in people under the age of 20.
+
+------
+
 #### Monday, 17 August 2020
 ## General
 [Another group of international flights land in Canada with COVID-19 patients](https://toronto.ctvnews.ca/another-group-of-international-flights-land-in-canada-with-covid-19-patients-1.5067157)

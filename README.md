@@ -1,3 +1,13 @@
+#### Wednesday, 19 August 2020
+## General
+[Effective test and trace could reduce disease reproduction number by up to 26%](https://medicalxpress.com/news/2020-08-effective-disease-reproduction.html)
+
+[U.S. doctors recommend stricter masking for students than Canada](https://www.ctvnews.ca/health/coronavirus/u-s-doctors-recommend-stricter-masking-for-students-than-canada-1.5071165)
+
+[Getting a flu shot this year is more important than ever because of COVID-19](https://medicalxpress.com/news/2020-08-flu-shot-year-important-covid-.html)
+
+------
+
 #### Tuesday, 18 August 2020
 ## General
 [Humid air can extend lifetime of virus-laden aerosol droplets](https://phys.org/news/2020-08-humid-air-lifetime-virus-laden-aerosol.html)

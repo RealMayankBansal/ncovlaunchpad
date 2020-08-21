@@ -1,3 +1,17 @@
+#### Friday, 21 August 2020
+## General
+[Another 80 COVID-19 cases in B.C. as death toll reaches 200](https://bc.ctvnews.ca/another-80-covid-19-cases-in-b-c-as-death-toll-reaches-200-1.5072574)
+
+[LIVE: WHO hopes coronavirus can be over in less than two years](https://www.aljazeera.com/news/2020/08/200821003718944.html)
+
+## Ontario
+### [Trudeau, Ford speak as Ontario records another 131 cases of COVID-19](https://www.cbc.ca/news/canada/toronto/covid-19-ontario-august-21-1.5694940)
+_CBC News_
+
+Ontario reports 131 new infections of COVID-19 on Friday, which includes the missing cases from Thursday's glitch. There are currently 986 active cases in the province, a slight increase from yesterday's total of 964.
+
+------
+
 #### Wednesday, 19 August 2020
 ## General
 [Effective test and trace could reduce disease reproduction number by up to 26%](https://medicalxpress.com/news/2020-08-effective-disease-reproduction.html)

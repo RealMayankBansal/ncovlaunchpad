@@ -1,3 +1,17 @@
+#### Saturday, 22 August 2020
+## General
+[Gaps in early surveillance of coronavirus led to record-breaking US trajectory: study](https://medicalxpress.com/news/2020-08-gaps-early-surveillance-coronavirus-record-breaking.html)
+
+[What happens when COVID-19 and influenza collide? Can hospitals handle the strain?](https://medicalxpress.com/news/2020-08-covid-influenza-collide-hospitals-strain.html)
+
+## Ontario
+### [Ontario records 108 new cases of COVID-19, sees slight increase](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-august-22-1.5696394)
+_CBC News_
+
+Ontario health officials report 108 new cases of COVID-19 on Saturday, with almost 29,000 tests processed on Friday. 27 of the province's 34 health units are reporting 5 or fewer new cases, with 16 of them having no cases at all.
+
+------
+
 #### Friday, 21 August 2020
 ## General
 [Another 80 COVID-19 cases in B.C. as death toll reaches 200](https://bc.ctvnews.ca/another-80-covid-19-cases-in-b-c-as-death-toll-reaches-200-1.5072574)

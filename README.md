@@ -1,3 +1,11 @@
+#### Monday, 24 August 2020
+## General
+[Genomic analysis reveals many animal species may be vulnerable to SARS-CoV-2 infection](https://medicalxpress.com/news/2020-08-genomic-analysis-reveals-animal-species.html)
+
+[Scientists say Hong Kong man got coronavirus a second time](https://medicalxpress.com/news/2020-08-scientists-hong-kong-coronavirus.html)
+
+------
+
 #### Saturday, 22 August 2020
 ## General
 [Gaps in early surveillance of coronavirus led to record-breaking US trajectory: study](https://medicalxpress.com/news/2020-08-gaps-early-surveillance-coronavirus-record-breaking.html)

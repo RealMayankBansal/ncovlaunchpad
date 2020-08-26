@@ -1,3 +1,18 @@
+#### Wednesday, 26 August 2020
+## General
+[Study tracks evolution of SARS-CoV-2 virus mutations](https://medicalxpress.com/news/2020-08-tracks-evolution-sars-cov-virus-mutations.html)
+
+[Q&A: Will a coronavirus vaccine be a cure-all?](https://medicalxpress.com/news/2020-08-qa-coronavirus-vaccine-cure-all.html)
+
+## Ontario
+### [Ontario records fewer than 100 new COVID-19 cases for first time in six days](https://toronto.ctvnews.ca/ontario-records-fewer-than-100-new-covid-19-cases-for-first-time-in-six-days-1.5079775)
+_CTV News_
+
+Ontario sees a slight dip in new infections as health officials report 88 cases of COVID-19 on Wednesday.
+Currently, there are 43 patients infected with COVID-19 in Ontario hospitals, of which fifteen are in the intensive care unit. Ten of those patients are breathing with the assistance of a ventilator.
+
+------
+
 #### Tuesday, 25 August 2020
 ## General
 [Why COVID-19 infection curves behave so unexpectedly](https://medicalxpress.com/news/2020-08-covid-infection-unexpectedly.html)

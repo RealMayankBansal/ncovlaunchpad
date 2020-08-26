@@ -1,3 +1,20 @@
+#### Tuesday, 25 August 2020
+## General
+[Why COVID-19 infection curves behave so unexpectedly](https://medicalxpress.com/news/2020-08-covid-infection-unexpectedly.html)
+
+[Coronavirus may be transmitted through the air, experts warn](https://medicalxpress.com/news/2020-08-coronavirus-transmitted-air-experts.html)
+
+[Reopening elementary schools carries less COVID-19 risk than high schools – but that doesn't guarantee safety](https://medicalxpress.com/news/2020-08-reopening-elementary-schools-covid-high.html)
+
+## Ontario
+### [Ontario marks fifth day in a row with new COVID-19 cases in triple digits](https://toronto.ctvnews.ca/ontario-marks-fifth-day-in-a-row-with-new-covid-19-cases-in-triple-digits-1.5078218)
+_CTV News_
+
+Ontario reports 100 new cases of COVID-19 on Tuesday, marking the fifth consecutive day in which the daily infections increase has been in the triple digits.
+Health officials also confirm two new deaths, bringing the total deaths related to COVID-19 to 2,800 in the province.
+
+------
+
 #### Monday, 24 August 2020
 ## General
 [Genomic analysis reveals many animal species may be vulnerable to SARS-CoV-2 infection](https://medicalxpress.com/news/2020-08-genomic-analysis-reveals-animal-species.html)

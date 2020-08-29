@@ -1,3 +1,13 @@
+#### Friday, 28 August 2020
+## General
+[For COVID-19, what is 'safe distancing'? It depends...](https://medicalxpress.com/news/2020-08-covid-safe-distancing.html)
+
+[When mom-to-be has COVID-19](https://medicalxpress.com/news/2020-08-mom-to-be-covid-.html)
+
+[COVID-19 contacts should be tested, regardless of symptoms: WHO](https://medicalxpress.com/news/2020-08-covid-contacts-symptoms.html)
+
+------
+
 #### Wednesday, 26 August 2020
 ## General
 [Study tracks evolution of SARS-CoV-2 virus mutations](https://medicalxpress.com/news/2020-08-tracks-evolution-sars-cov-virus-mutations.html)

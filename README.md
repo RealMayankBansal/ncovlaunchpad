@@ -1,3 +1,19 @@
+#### Saturday, 29 August 2020
+## General
+[Growth rate of the COVID-19 pandemic may be obscured due to changes in testing rates](https://medicalxpress.com/news/2020-08-growth-covid-pandemic-obscured-due.html)
+
+[When mom-to-be has COVID-19](https://medicalxpress.com/news/2020-08-mom-to-be-covid-.html)
+
+[COVID-19 saliva test enables screening on a massive scale](https://medicalxpress.com/news/2020-08-covid-salivatest-enables-screening-massive.html)
+
+## Ontario
+### [New COVID-19 cases in Ontario surge to highest number in more than a month](https://toronto.ctvnews.ca/new-covid-19-cases-in-ontario-surge-to-highest-number-in-more-than-a-month-1.5084421)
+_CTV News_
+
+Ontario health officials report 148 new infections of COVID-19 on Saturday, reporting the highest number of single day case increase since July 24, when 195 new cases were reported.
+
+------
+
 #### Friday, 28 August 2020
 ## General
 [For COVID-19, what is 'safe distancing'? It depends...](https://medicalxpress.com/news/2020-08-covid-safe-distancing.html)

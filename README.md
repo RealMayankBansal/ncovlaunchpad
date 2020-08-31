@@ -1,3 +1,18 @@
+#### Sunday, 30 August 2020
+## General
+[Children with no COVID-19 symptoms may shed virus for weeks](https://medicalxpress.com/news/2020-08-children-covid-symptoms-virus-weeks.html)
+
+[Global virus cases cross 25 million as India sets grim record](https://medicalxpress.com/news/2020-08-global-virus-cases-million-india.html)
+
+## Ontario
+### [Ontario reports dip in new COVID-19 cases but still logs more than 100 new infections](https://toronto.ctvnews.ca/ontario-reports-dip-in-new-covid-19-cases-but-still-logs-more-than-100-new-infections-1.5085099)
+_CTV News_
+
+Health officials report 112 new cases of COVID-19 on Sunday, a slight decrease of infections from yesterday's report.
+The provincial total of infections increases to 42,195 and one new death brings the province's death toll to 2,810.
+
+------
+
 #### Saturday, 29 August 2020
 ## General
 [Growth rate of the COVID-19 pandemic may be obscured due to changes in testing rates](https://medicalxpress.com/news/2020-08-growth-covid-pandemic-obscured-due.html)

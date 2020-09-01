@@ -1,3 +1,18 @@
+#### Monday, 31 August 2020
+## General
+
+[Asthma may not be a significant risk factor for severe COVID-19](https://medicalxpress.com/news/2020-08-asthma-significant-factor-severe-covid-.html)
+
+[Quick and cheap, new COVID-19 test could enhance U.S. screening efforts](https://medicalxpress.com/news/2020-08-quick-cheap-covid-screening-efforts.html)
+
+## Ontario
+### [Ontario reports more than 100 new cases of COVID-19 for fifth day in a row](https://www.cp24.com/news/ontario-reports-more-than-100-new-cases-of-covid-19-for-fifth-day-in-a-row-1.5085969)
+_CP24_
+
+Ontario is reporting 114 new cases of COVID-19 on Monday, marking the fifth day in a row with more than 100 new infections. The province is seeing the number of new daily cases in the triple digits on 11 of the last 12 days.
+
+------
+
 #### Sunday, 30 August 2020
 ## General
 [Children with no COVID-19 symptoms may shed virus for weeks](https://medicalxpress.com/news/2020-08-children-covid-symptoms-virus-weeks.html)

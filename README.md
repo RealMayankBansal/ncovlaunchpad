@@ -1,6 +1,5 @@
 #### Monday, 31 August 2020
 ## General
-
 [Asthma may not be a significant risk factor for severe COVID-19](https://medicalxpress.com/news/2020-08-asthma-significant-factor-severe-covid-.html)
 
 [Quick and cheap, new COVID-19 test could enhance U.S. screening efforts](https://medicalxpress.com/news/2020-08-quick-cheap-covid-screening-efforts.html)

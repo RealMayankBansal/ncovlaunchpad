@@ -1,3 +1,19 @@
+#### Tuesday, 1 September 2020
+## General
+[Minimal SARS-CoV-2 diversity suggests a global vaccine is feasible](https://medicalxpress.com/news/2020-09-minimal-sars-cov-diversity-global-vaccine.html)
+
+[Russia's virus cases exceed 1 million, globally 4th highest](https://medicalxpress.com/news/2020-09-russia-virus-cases-million-globally.html)
+
+[Many hospital workers infected with coronavirus don't show symptoms](https://medicalxpress.com/news/2020-09-hospital-workers-infected-coronavirus-dont.html)
+
+## Ontario
+### [Ontario reports 112 new cases of COVID-19, uptick in hospitalizations](https://www.cbc.ca/news/canada/toronto/ontario-covid-19-numbers-september-1-1.5707572)
+_CBC News_
+
+Ontario health officials are reporting 112 new cases of COVID-19 on Tuesdat, with the majority of infections concentrated in the Greater Toronto Area. 
+
+------
+
 #### Monday, 31 August 2020
 ## General
 [Asthma may not be a significant risk factor for severe COVID-19](https://medicalxpress.com/news/2020-08-asthma-significant-factor-severe-covid-.html)

@@ -1,3 +1,20 @@
+#### Thursday, 3 September 2020
+## General
+[Children can have COVID-19 antibodies and virus in their system simultaneously](https://medicalxpress.com/news/2020-09-children-covid-antibodies-virus-simultaneously.html)
+
+[Study: Vitamin D deficiency may raise risk of getting COVID-19](https://medicalxpress.com/news/2020-09-vitamin-d-deficiency-covid-.html)
+
+[Can I get the coronavirus twice?](https://medicalxpress.com/news/2020-09-coronavirus.html)
+
+## Ontario
+### [Ontario reports more than 100 new cases of COVID-19 for eighth straight day](https://toronto.ctvnews.ca/ontario-reports-more-than-100-new-cases-of-covid-19-for-eighth-straight-day-1.5090960)
+_CTV News_
+
+Ontario is reporting more than 100 new cases for the eighth straight day.
+Health officials report 132 new infections of COVID-19 on Thursday, bringing the provincial total to 42,686 including deaths and recoveries. The total deaths remains unchanged at 2,812 as no deaths were reported in the past 24 hours.
+
+------
+
 #### Wednesday, 2 September 2020
 ## General
 [Minimal SARS-CoV-2 diversity suggests a global vaccine is feasible](https://medicalxpress.com/news/2020-09-minimal-sars-cov-diversity-global-vaccine.html)

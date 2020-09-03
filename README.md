@@ -1,3 +1,11 @@
+#### Wednesday, 2 September 2020
+## General
+[Minimal SARS-CoV-2 diversity suggests a global vaccine is feasible](https://medicalxpress.com/news/2020-09-minimal-sars-cov-diversity-global-vaccine.html)
+
+[In animal studies, nanoparticle treatment induces antibodies against SARS-CoV-2](https://medicalxpress.com/news/2020-09-animal-nanoparticle-treatment-antibodies-sars-cov-.html)
+
+------
+
 #### Tuesday, 1 September 2020
 ## General
 [Minimal SARS-CoV-2 diversity suggests a global vaccine is feasible](https://medicalxpress.com/news/2020-09-minimal-sars-cov-diversity-global-vaccine.html)

@@ -1,3 +1,9 @@
+#### Saturday, 5 September 2020
+## General
+[Researchers identify nanobody that may prevent COVID-19 infection](https://phys.org/news/2020-09-nanobody-covid-infection.html)
+
+------
+
 #### Thursday, 3 September 2020
 ## General
 [Children can have COVID-19 antibodies and virus in their system simultaneously](https://medicalxpress.com/news/2020-09-children-covid-antibodies-virus-simultaneously.html)

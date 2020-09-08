@@ -1,3 +1,20 @@
+#### Monday, 7 September 2020
+## General
+[Ensuring an ethical path to a 'warp speed' vaccine](https://medicalxpress.com/news/2020-09-ethical-path-warp-vaccine.html)
+
+[Nigerian scientists have identified seven lineages of SARS-CoV-2: Why it matters](https://medicalxpress.com/news/2020-09-nigerian-scientists-lineages-sars-cov-.html)
+
+[Viruses play critical role in evolution and survival of the species](https://phys.org/news/2020-09-viruses-critical-role-evolution-survival.html)
+
+## Ontario
+### [Tam urges caution as daily cases of COVID-19 rise 25 per cent in last week](https://www.ctvnews.ca/health/coronavirus/tam-urges-caution-as-daily-cases-of-covid-19-rise-25-per-cent-in-last-week-1.5095268)
+_CTV News_
+
+Canada's chief public health doctor, Dr. Theresa Tam, says a steady increase of COVID-19 cases over the past three weeks is a cause for concern.
+The average daily number of new infections over the last week was 545 - a 25% increase over the previous week which had a daily average of 435, and 390 the week before that.
+
+------
+
 #### Saturday, 5 September 2020
 ## General
 [Researchers identify nanobody that may prevent COVID-19 infection](https://phys.org/news/2020-09-nanobody-covid-infection.html)

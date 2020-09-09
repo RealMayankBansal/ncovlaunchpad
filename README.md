@@ -1,3 +1,17 @@
+#### Tuesday, 8 September 2020
+## General
+[Scientists develop low-cost chip to detect presence and quantity of COVID-19 antibodies](https://phys.org/news/2020-09-scientists-low-cost-chip-presence-quantity.html)
+
+[US biker rally may have led to 260,000 new COVID-19 cases: study](https://medicalxpress.com/news/2020-09-biker-rally-covid-cases.html)
+
+## Ontario
+### [Is Ontario entering the second wave of COVID-19?](https://toronto.ctvnews.ca/is-ontario-entering-the-second-wave-of-covid-19-1.5096852)
+_CTV News_
+
+Ontario reported a total of 375 new COVID-19 infections over the past two days. The 190 new cases on Monday and 185 on Tuesday were the highest daily increase the province has seen since late July.
+
+------
+
 #### Monday, 7 September 2020
 ## General
 [Ensuring an ethical path to a 'warp speed' vaccine](https://medicalxpress.com/news/2020-09-ethical-path-warp-vaccine.html)

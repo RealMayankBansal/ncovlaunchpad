@@ -1,3 +1,20 @@
+#### Wednesday, 9 September 2020
+## General
+[Engineered 'nanobodies' block SARS-CoV-2 from infecting human cells](https://phys.org/news/2020-09-nanobodies-block-sars-cov-infecting-human.html)
+
+[Discovery of four COVID-19 risk groups helps guide treatment](https://medicalxpress.com/news/2020-09-discovery-covid-groups-treatment.html)
+
+[How has COVID-19 affected the way we communicate?](https://medicalxpress.com/news/2020-09-covid-affected.html)
+
+## Ontario
+### [Ontario reports 149 new COVID-19 cases as concerns about second wave mount](https://www.cp24.com/news/ontario-reports-149-new-covid-19-cases-as-concerns-about-second-wave-mount-1.5097590)
+_CP 24_
+
+Ontario reports 149 new cases of COVID-19 on Wednesday, a significant drop from 185 cases on Sunday and 190 on Monday. However, these cases have been generated from fewer processed tests.
+Health Minister Christine stated that labs processed 17,600 test specimens over the past 24 hours, down from 21,000 on Monday. 
+
+------
+
 #### Tuesday, 8 September 2020
 ## General
 [Scientists develop low-cost chip to detect presence and quantity of COVID-19 antibodies](https://phys.org/news/2020-09-scientists-low-cost-chip-presence-quantity.html)

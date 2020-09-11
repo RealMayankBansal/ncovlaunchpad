@@ -1,3 +1,18 @@
+#### Thursday, 10 September
+## General
+[Study takes us a step closer to a universal antibody test for COVID-19](https://medicalxpress.com/news/2020-09-closer-universal-antibody-covid-.html)
+
+[Antibody responses in COVID-19 patients could guide vaccine design](https://medicalxpress.com/news/2020-09-antibody-responses-covid-patients-vaccine.html)
+
+## Ontario
+### [Ontario logs 170 new COVID-19 cases, majority in Toronto area](https://toronto.ctvnews.ca/ontario-logs-170-new-covid-19-cases-majority-in-toronto-area-1.5099294)
+_CTV News_
+
+Ontario added 170 new infections of COVID-19 on Thursday, with more than half of the new cases reported in the Greater Toronto Area.
+Thursday marks the province's fifteenth day in a row where the number of reported cases has surpassed 100.
+
+------
+
 #### Wednesday, 9 September 2020
 ## General
 [Engineered 'nanobodies' block SARS-CoV-2 from infecting human cells](https://phys.org/news/2020-09-nanobodies-block-sars-cov-infecting-human.html)

@@ -1,3 +1,20 @@
+#### Friday, 11 September
+## Ontario
+### [Ontario's COVID-19 case count surges to highest level since June](https://toronto.ctvnews.ca/ontario-s-covid-19-case-count-surges-to-highest-level-since-june-1.5100868)
+_CTV News_
+
+Ontario's daly case count surpasses 200 for the first time since July 21 as the province records 213 new cases of COVID-19 on Friday.
+One third of the cases were reported in Toronto with Ottawa and Peel Region being major contributers as well with 37 and 38 new infections respectively.
+
+## Durham Region
+### [Six new COVID cases in Oshawa](https://oshawaexpress.ca/six-new-covid-cases-in-oshawa/)
+_Oshawa Express_
+
+Oshawa has six new cases of COVID-19, bringing the total positive cases for Oshawa to 301.
+Over the past seven days, 42 cases of COVID-19 have been reported across Durham Region, with 10 new infections on September 9.
+
+------
+
 #### Thursday, 10 September
 ## General
 [Study takes us a step closer to a universal antibody test for COVID-19](https://medicalxpress.com/news/2020-09-closer-universal-antibody-covid-.html)

@@ -1,3 +1,19 @@
+#### Saturday, 12 September
+## General
+[Major Covid-19 vaccine trial resumes in UK after safety review](https://medicalxpress.com/news/2020-09-major-covid-vaccine-trial-resumes.html)
+
+[Just how reliable are COVID-19 tests? Experts weigh in](https://medicalxpress.com/news/2020-09-reliable-covid-experts.html)
+
+[CDC: Nearly 800 U.S. children have developed COVID-19-related condition](https://medicalxpress.com/news/2020-09-cdc-children-covid-related-condition.html)
+
+## Ontario
+### [New COVID-19 cases in Ontario spike for second straight day](https://toronto.ctvnews.ca/new-covid-19-cases-in-ontario-spike-for-second-straight-day-1.5102202)
+_CTV News_
+
+Ontario health officials confirm 232 cases of COVID-19 on Saturday, marking the province's second day in a row reporting over 200 new infections.
+
+------
+
 #### Friday, 11 September
 ## Ontario
 ### [Ontario's COVID-19 case count surges to highest level since June](https://toronto.ctvnews.ca/ontario-s-covid-19-case-count-surges-to-highest-level-since-june-1.5100868)

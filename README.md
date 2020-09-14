@@ -1,3 +1,15 @@
+#### Sunday, 13 September
+## General
+[How coronavirus took hold in North America and in Europe](https://medicalxpress.com/news/2020-09-coronavirus-north-america-europe.html)
+
+## Ontario
+### [Ontario reports more than 200 new cases of COVID-19 for third straight day](https://toronto.ctvnews.ca/ontario-reports-more-than-200-new-cases-of-covid-19-for-third-straight-day-1.5102855)
+_CTV News_
+
+Ontario health officials confirm another 204 cases of COVID-19 on Sunday, marking the third day in a row the province has reported over 200 new daily infections
+
+------
+
 #### Saturday, 12 September
 ## General
 [Major Covid-19 vaccine trial resumes in UK after safety review](https://medicalxpress.com/news/2020-09-major-covid-vaccine-trial-resumes.html)

@@ -1,3 +1,20 @@
+#### Monday, 14 September
+## General
+[Mechanism discovered how the coronavirus hijacks the cell](https://phys.org/news/2020-09-mechanism-coronavirus-hijacks-cell.html)
+
+[Five reasons to get the flu shot—especially this year](https://medicalxpress.com/news/2020-09-flu-shotespecially-year.html)
+
+[Why a vaccine can provide better immunity than an actual infection](https://medicalxpress.com/news/2020-09-vaccine-immunity-actual-infection.html)
+
+## Ontario
+[New COVID-19 cases in Ontario surge to 14-week high](https://toronto.ctvnews.ca/new-covid-19-cases-in-ontario-surge-to-14-week-high-1.5103755)
+_CTV News_
+
+Ontario has recorded another significant increase in COVID-19 cases, reporting the highest number of new infections in 14 weeks. 
+Health officials are reporting 313 new cases on Monday, the highest daily increase since June 5.
+
+------
+
 #### Sunday, 13 September
 ## General
 [How coronavirus took hold in North America and in Europe](https://medicalxpress.com/news/2020-09-coronavirus-north-america-europe.html)

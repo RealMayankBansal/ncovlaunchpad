@@ -1,3 +1,25 @@
+#### Tuesday, 15 September
+## General
+[COVID-19 virus uses heparan sulfate to get inside cells](https://phys.org/news/2020-09-covid-virus-heparan-sulfate-cells.html)
+
+[Flu may increase the spread of COVID-19](https://medicalxpress.com/news/2020-09-flu-covid-.html)
+
+[China says Covid-19 vaccine could be ready for public by November](https://medicalxpress.com/news/2020-09-china-covid-vaccine-ready-november.html)
+
+## Ontario
+### [Ontario records slight dip in COVID-19 cases but continues upward trend](https://toronto.ctvnews.ca/ontario-records-slight-dip-in-covid-19-cases-but-continues-upward-trend-1.5105199)
+_CTV News_
+
+Ontario health offcials are reporting another 251 new cases of COVID-19 on Tuesday, with the majority of new infections being reported in people between the ages of 20 and 39.
+
+## Durham Region
+### [Durham reports 17 new COVID-19 cases on Tuesday](https://www.durhamradionews.com/archives/129189)
+_CTV News_
+
+17 new cases of COVID-19 were confirmed in the Durham Region, bringing the total number of active cases in the region to 85.
+
+------
+
 #### Monday, 14 September
 ## General
 [Mechanism discovered how the coronavirus hijacks the cell](https://phys.org/news/2020-09-mechanism-coronavirus-hijacks-cell.html)

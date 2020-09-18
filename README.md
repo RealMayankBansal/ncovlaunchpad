@@ -1,3 +1,11 @@
+#### Thursday, 17 September
+## General
+[Do-it-yourself COVID-19 vaccines fraught with public health problems](https://medicalxpress.com/news/2020-09-do-it-yourself-covid-vaccines-fraught-health.html)
+
+[Study shows first proof that a safer UV light effectively kills virus causing COVID-19](https://medicalxpress.com/news/2020-09-proof-safer-uv-effectively-virus.html)
+
+------
+
 #### Tuesday, 15 September
 ## General
 [COVID-19 virus uses heparan sulfate to get inside cells](https://phys.org/news/2020-09-covid-virus-heparan-sulfate-cells.html)

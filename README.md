@@ -1,3 +1,9 @@
+#### Friday, 18 September
+## General
+[Interim data from early US COVID-19 hotspot show mortality of disease were not associated with race/ethnicity](https://medicalxpress.com/news/2020-09-interim-early-covid-hotspot-mortality.html)
+
+------
+
 #### Thursday, 17 September
 ## General
 [Do-it-yourself COVID-19 vaccines fraught with public health problems](https://medicalxpress.com/news/2020-09-do-it-yourself-covid-vaccines-fraught-health.html)

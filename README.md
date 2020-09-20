@@ -1,3 +1,20 @@
+#### Saturday, 19 September
+## Ontario
+### [Ontario slashes gathering sizes for entire province as alarm bells ring over COVID-19 spike](https://toronto.ctvnews.ca/ontario-slashes-gathering-sizes-for-entire-province-as-alarm-bells-ring-over-covid-19-spike-1.5111784)
+_CTV News_
+
+Ontario Premier Doug Ford extends new social gathering restrictions across the entire province in response to the significant increase of daily cases over the past two weeks.
+Effective immediately, indoor and outdoor gatherings have been restriced from 50 and 100 to 10 and 25, respectively. These restrictions have been set in place for at least the next 28 days.
+In addition to the new gathering restrictions, Premier Ford has stated that his government will issue fines of up to $10,000 to anyone who organizes a private gathering exceeding the limits.
+
+### [Ontario's COVID-19 cases spike past 400 for second straight day](https://toronto.ctvnews.ca/ontario-s-covid-19-cases-spike-past-400-for-second-straight-day-1.5111804_)
+_CTV News_
+
+Ontario reports another increase in COVID-19 infections, recording more than 400 new cases for the second day in a row.
+Health officials confirmed 407 new cases of COVID-19 on Saturday, the highest daily increase since June 7 when 446 infections were added.
+
+------
+
 #### Friday, 18 September
 ## General
 [Interim data from early US COVID-19 hotspot show mortality of disease were not associated with race/ethnicity](https://medicalxpress.com/news/2020-09-interim-early-covid-hotspot-mortality.html)

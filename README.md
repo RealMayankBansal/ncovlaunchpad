@@ -1,3 +1,9 @@
+#### Sunday, 20 September
+## General
+[Researchers validate clinical feasibility for CRISPR-based COVID-19 testing at point of care](https://phys.org/news/2020-09-validate-clinical-feasibility-crispr-based-covid-.html)
+
+------
+
 #### Saturday, 19 September
 ## Ontario
 ### [Ontario slashes gathering sizes for entire province as alarm bells ring over COVID-19 spike](https://toronto.ctvnews.ca/ontario-slashes-gathering-sizes-for-entire-province-as-alarm-bells-ring-over-covid-19-spike-1.5111784)

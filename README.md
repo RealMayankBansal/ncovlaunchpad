@@ -1,3 +1,16 @@
+#### Monday, 21 September
+## General
+[Study finds that children's immune response protects against COVID-19](https://medicalxpress.com/news/2020-09-children-immune-response-covid-.html)
+
+## Ontario
+### [Ontario sees 425 new COVID-19 cases, most in more than 3 months](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-september-21-update-1.5732335)
+_CTV News_
+
+As Ontario reports 425 cases of COVID-19 on Monday, the highest single day increase in over three months, the health minister indicates that about 67% of the cases are occuring in people under 40 years old. 
+Premier Doug Ford states that he will be revealing the fall preparedness plan regarding COVID-19 on Tuesday.
+
+------
+
 #### Sunday, 20 September
 ## General
 [Researchers validate clinical feasibility for CRISPR-based COVID-19 testing at point of care](https://phys.org/news/2020-09-validate-clinical-feasibility-crispr-based-covid-.html)

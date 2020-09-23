@@ -1,3 +1,20 @@
+#### Tuesday, 22 September
+## General
+[Evaporation critical to coronavirus transmission as weather changes](https://phys.org/news/2020-09-evaporation-critical-coronavirus-transmission-weather.html)
+
+[When does a second COVID surge end? Look at the maths](https://phys.org/news/2020-09-covid-mathematicians.html)
+
+[SARS-CoV-2 infection can block pain, opening up unexpected new possibilities for pain relief research](https://medicalxpress.com/news/2020-09-sars-cov-infection-block-pain-unexpected.html)
+
+## Ontario
+### [Province pushing flu shots as Ontario sees most new COVID-19 cases since May 2](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-september-22-fall-plan-1.5733733)
+_CBC News_
+
+Ontario reported 478 new cases of COVID-19, the highest single day increase since May 2, with about 68% of the new infections being confirmed in people under the age of 40.
+Instead of releasing Ontario's fall COVID-19 plan today, Premier Doug Ford delays its announcement saying that himself and Health Minister Christine Elliott will be laying out the stages in the coming days.
+
+------
+
 #### Monday, 21 September
 ## General
 [Study finds that children's immune response protects against COVID-19](https://medicalxpress.com/news/2020-09-children-immune-response-covid-.html)

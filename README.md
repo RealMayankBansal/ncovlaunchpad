@@ -1,3 +1,11 @@
+#### Wednesday, 23 September
+## General
+[People with 'silent' COVID-19 have as much coronavirus as those with symptoms](https://medicalxpress.com/news/2020-09-people-silent-covid-coronavirus-symptoms.html)
+
+[Role of bone marrow immune cells in COVID-19 revealed](https://medicalxpress.com/news/2020-09-role-bone-marrow-immune-cells.html)
+
+------
+
 #### Tuesday, 22 September
 ## General
 [Evaporation critical to coronavirus transmission as weather changes](https://phys.org/news/2020-09-evaporation-critical-coronavirus-transmission-weather.html)

@@ -1,3 +1,17 @@
+#### Thursday, 24 September
+## General
+[Some severe COVID-19 cases linked to genetic mutations or antibodies that attack the body](https://medicalxpress.com/news/2020-09-severe-covid-cases-linked-genetic.html)
+
+[Blood-based test accurately identifies viral infection before symptoms develop](https://medicalxpress.com/news/2020-09-blood-based-accurately-viral-infection-symptoms.html)
+
+## Ontario
+### [Ontario sees 409 new COVID-19 cases, rolls out $1B updated testing and contact-tracing plan](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-september-24-update-1.5736841)
+_CTV News_
+
+Ontario is reporting 409 new cases of COVID-19 on Thursday, as health officials announce that they are shifting back to symptomatic people and individuals in high-risk areas to relieve pressure off publicly funded testing sites and to clear a significant back log of tests.
+
+------
+
 #### Wednesday, 23 September
 ## General
 [People with 'silent' COVID-19 have as much coronavirus as those with symptoms](https://medicalxpress.com/news/2020-09-people-silent-covid-coronavirus-symptoms.html)

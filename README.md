@@ -1,3 +1,18 @@
+#### Saturday, 26 September
+## General
+[Surgical, N95 masks block most particles, homemade cloth masks release their own](https://medicalxpress.com/news/2020-09-surgical-n95-masks-block-particles.html)
+
+[Do masks help boost COVID immunity?](https://medicalxpress.com/news/2020-09-masks-boost-covid-immunity.html)
+
+## Ontario
+### [Ontario reports 435 new COVID-19 cases, sets new record of 43,238 tests processed in single day](https://www.cbc.ca/news/canada/toronto/ontario-september-26-covid19-omnibus-1.5740377)
+_CBC News_
+
+Ontario reports 435 new cases of COVID-19 on Saturday, with the province having processed 43,238 tests on a Friday, a new single day record.
+As the Ontario health ministry reports that 100 people are in the hospital with COVID-19, twenty-eight are in the intensive care unit with fifteen of them on ventilators.
+
+------
+
 #### Thursday, 24 September
 ## General
 [Some severe COVID-19 cases linked to genetic mutations or antibodies that attack the body](https://medicalxpress.com/news/2020-09-severe-covid-cases-linked-genetic.html)

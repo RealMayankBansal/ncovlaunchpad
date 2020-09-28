@@ -1,3 +1,17 @@
+#### Sunday, 27 September
+## General
+[Adequate levels of vitamin D reduces complications, death among COVID-19 patients](https://medicalxpress.com/news/2020-09-adequate-vitamin-d-complications-death.html)
+
+[Tiny airborne particles may pose a big coronavirus problem](https://medicalxpress.com/news/2020-09-tiny-airborne-particles-pose-big.html)
+
+## Ontario
+### [Ontario reports 491 new cases of COVID-19, highest daily increase since early May](https://www.cbc.ca/news/canada/toronto/ontario-covid19-omnibus-update-testing-daily-cases-1.5740910)
+_CTBC News_
+
+Ontario is confirming  491 new cases of COVID-19 on Sunday, the highest daily increse since May 2 when 511 new infections were reported.
+
+------
+
 #### Saturday, 26 September
 ## General
 [Surgical, N95 masks block most particles, homemade cloth masks release their own](https://medicalxpress.com/news/2020-09-surgical-n95-masks-block-particles.html)

@@ -1,3 +1,13 @@
+#### Monday, 28 September
+## Ontario
+### [New COVID-19 cases in Ontario reach highest mark ever](https://toronto.ctvnews.ca/new-covid-19-cases-in-ontario-reach-highest-mark-ever-1.5122863)
+_CTV News_
+
+Ontario health officials report 700 new cases of COVID-19 on Monday, breaking the previous high of 624 cases on April 24.
+Nearly half (317) of the new infections on confirmed on Monday are in people between the ages of 20 and 39 and 101 reported in people 19 years of age and younger.
+
+------
+
 #### Sunday, 27 September
 ## General
 [Adequate levels of vitamin D reduces complications, death among COVID-19 patients](https://medicalxpress.com/news/2020-09-adequate-vitamin-d-complications-death.html)

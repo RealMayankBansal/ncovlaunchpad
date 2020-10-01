@@ -1,3 +1,16 @@
+#### Thursday, 1 October
+## General
+[Largest COVID-19 contact-tracing finds children key to spread, evidence of superspreaders](https://medicalxpress.com/news/2020-09-largest-covid-contact-tracing-children-key.html)
+
+## Ontario
+### [Ontario reports one-day dip in COVID-19 cases but still logs more than 500 new infections](https://toronto.ctvnews.ca/ontario-reports-one-day-dip-in-covid-19-cases-but-still-logs-more-than-500-new-infections-1.5128148)
+_CTV News_
+
+Ontario reports another 538 new cases of COVID-19 on Thursday, along with logging three COVID-related deaths, bringing the total fatalities in Ontario to 2,851.
+As nearly 40,000 tests were completed in the past 24 hours, this makes Thursday's positivity rate just over 1 percent. 
+
+------
+
 #### Monday, 28 September
 ## Ontario
 ### [New COVID-19 cases in Ontario reach highest mark ever](https://toronto.ctvnews.ca/new-covid-19-cases-in-ontario-reach-highest-mark-ever-1.5122863)

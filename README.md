@@ -1,3 +1,16 @@
+#### Saturday, 3 October
+## General
+[What is contact tracing, and how does it work with COVID-19?](https://medicalxpress.com/news/2020-10-contact-covid-.html)
+
+## Ontario
+### [New COVID-19 cases in Ontario drop following highest single-day spike on record](https://toronto.ctvnews.ca/new-covid-19-cases-in-ontario-drop-following-highest-single-day-spike-on-record-1.5131519)
+_CTV News_
+
+Ontario is reporting 653 new cases of COVID-19 on Saturday, down from the from the province's highest single day case count of 732 infections a day earlier.
+Nearly half of the infections (322) were reported in people between the ages of 29 and 30, while 99 new cases were reported in people younger than the age of 19.
+
+------
+
 #### Thursday, 1 October
 ## General
 [Largest COVID-19 contact-tracing finds children key to spread, evidence of superspreaders](https://medicalxpress.com/news/2020-09-largest-covid-contact-tracing-children-key.html)

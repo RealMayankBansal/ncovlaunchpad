@@ -1,3 +1,18 @@
+#### Sunday, 4 October
+## General
+[Leading Covid-19 vaccine trial resumes in Japan but not US](https://medicalxpress.com/news/2020-10-covid-vaccine-trial-resumes-japan.html)
+
+[What you need to know about Regeneron's COVID-19 treatment](https://medicalxpress.com/news/2020-10-regeneron-covid-treatment.html)
+
+## Ontario
+### [Ontario reports 566 new COVID-19 cases as walk-in tests come to end across province](https://www.cbc.ca/news/canada/toronto/ontario-covid-19-cases-october-4-update-1.5749841)
+_CBC News_
+
+As walk-in tests end across Ontario, the province reports 566 new cases of COVID-19 on Sunday. The majority of cases are concentrated in  Toronto, Ottawa, and Peel Region.
+Saturday was the last day that COVID-19 assessment centres were accepting walk-ins. Starting Tuesday, anyone wanting to take a COVID-19 test will have to book an appointment at an assessment centre or select pharmacies.
+
+------
+
 #### Saturday, 3 October
 ## General
 [What is contact tracing, and how does it work with COVID-19?](https://medicalxpress.com/news/2020-10-contact-covid-.html)

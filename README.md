@@ -1,3 +1,18 @@
+#### Monday, 5 October
+## General
+[WHO: 10% of world's people may have been infected with virus](https://medicalxpress.com/news/2020-10-world-people-infected-virus.html)
+
+[Trump is taking the latest in COVID-19 treatments – here's what doctors know works against the virus](https://medicalxpress.com/news/2020-10-trump-latest-covid-treatments-doctors.html)
+
+## Ontario
+### [Ontario reports 615 new cases of COVID-19 as province shifts testing strategy](https://toronto.ctvnews.ca/ontario-reports-615-new-cases-of-covid-19-as-province-shifts-testing-strategy-1.5133014)
+_CTV News_
+
+Ontario health officials are confirming 615 new cases of COVID-19 on Monday as the province no longer allows for walk-in appointments. These are the results of the 38,196 tests the province completed for COVID-19 over the last 24-hour period.
+The Ministry of Health's daily epidemiologic summary reports that 282 of the new infections were reported in people between the ages of 20 and 39.
+
+------
+
 #### Sunday, 4 October
 ## General
 [Leading Covid-19 vaccine trial resumes in Japan but not US](https://medicalxpress.com/news/2020-10-covid-vaccine-trial-resumes-japan.html)

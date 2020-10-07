@@ -27,6 +27,7 @@ Of the 538 new infections, almost half (253) were reported in people between the
 _CTV News_
 
 Ontario health officials are confirming 615 new cases of COVID-19 on Monday as the province no longer allows for walk-in appointments. These are the results of the 38,196 tests the province completed for COVID-19 over the last 24-hour period.
+
 The Ministry of Health's daily epidemiologic summary reports that 282 of the new infections were reported in people between the ages of 20 and 39.
 
 ------
@@ -42,6 +43,7 @@ The Ministry of Health's daily epidemiologic summary reports that 282 of the new
 _CBC News_
 
 As walk-in tests end across Ontario, the province reports 566 new cases of COVID-19 on Sunday. The majority of cases are concentrated in  Toronto, Ottawa, and Peel Region.
+
 Saturday was the last day that COVID-19 assessment centres were accepting walk-ins. Starting Tuesday, anyone wanting to take a COVID-19 test will have to book an appointment at an assessment centre or select pharmacies.
 
 ------
@@ -55,6 +57,7 @@ Saturday was the last day that COVID-19 assessment centres were accepting walk-i
 _CTV News_
 
 Ontario is reporting 653 new cases of COVID-19 on Saturday, down from the from the province's highest single day case count of 732 infections a day earlier.
+
 Nearly half of the infections (322) were reported in people between the ages of 29 and 30, while 99 new cases were reported in people younger than the age of 19.
 
 ------
@@ -68,6 +71,7 @@ Nearly half of the infections (322) were reported in people between the ages of 
 _CTV News_
 
 Ontario reports another 538 new cases of COVID-19 on Thursday, along with logging three COVID-related deaths, bringing the total fatalities in Ontario to 2,851.
+
 As nearly 40,000 tests were completed in the past 24 hours, this makes Thursday's positivity rate just over 1 percent. 
 
 ------

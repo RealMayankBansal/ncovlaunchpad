@@ -1,3 +1,20 @@
+#### Tuesday, 6 October
+## General
+[Musicians may need more than social distancing to stay safe on stage](https://medicalxpress.com/news/2020-10-musicians-social-distancing-safe-stage.html)
+
+[When COVID-19 superspreaders are talking, where you sit in the room matters](https://medicalxpress.com/news/2020-10-covid-superspreaders-room.html)
+
+More information regarding Canada's battle against the second wave of COVID-10 [here](https://www.macleans.ca/society/health/coronavirus-in-canada-these-charts-show-how-our-fight-to-flatten-the-curve-is-going/).
+
+## Ontario
+### [Ontario reports another drop in COVID-19 cases amid changes to testing rules](https://toronto.ctvnews.ca/ontario-reports-another-drop-in-covid-19-cases-amid-changes-to-testing-rules-1.5134414)
+_CTV News_
+
+Ontario health officials are reporting 548 new cases of COVID-19 on Tuesday, representing a decrease over the 615 cases confirmed on Monday. This decrease in daily infections comes as the province requires an appointment to be tested for COVID-19.
+Of the 538 new infections, almost half (253) were reported in people between the ages of 20 and 39. As well, 84 new infections were reported in people 19 years of age and younger.
+
+------
+
 #### Monday, 5 October
 ## General
 [WHO: 10% of world's people may have been infected with virus](https://medicalxpress.com/news/2020-10-world-people-infected-virus.html)

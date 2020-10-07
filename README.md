@@ -11,6 +11,7 @@ More information regarding Canada's battle against the second wave of COVID-10 [
 _CTV News_
 
 Ontario health officials are reporting 548 new cases of COVID-19 on Tuesday, representing a decrease over the 615 cases confirmed on Monday. This decrease in daily infections comes as the province requires an appointment to be tested for COVID-19.
+
 Of the 538 new infections, almost half (253) were reported in people between the ages of 20 and 39. As well, 84 new infections were reported in people 19 years of age and younger.
 
 ------

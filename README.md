@@ -1,3 +1,26 @@
+#### Thursday, 8 October
+## General
+[Coronavirus antibodies last at least three months after infection, study suggests](https://medicalxpress.com/news/2020-10-coronavirus-antibodies-months-infection.html)
+
+[Women are more concerned about COVID-19 than men, study finds](https://phys.org/news/2020-10-women-covid-men.html)
+
+## Ontario
+### [Ontario reports nearly 800 new COVID-19 cases reaching highest mark ever](https://toronto.ctvnews.ca/ontario-reports-nearly-800-new-covid-19-cases-reaching-highest-mark-ever-1.5137816)
+_CTV News_
+
+Ontario health officials are reporting 797 new cases of COVID-19 on Thursday, breaking the previous single day high on October 2nd of 732 infections.
+Most of the new cases continue to be reported in Ontarios four hotspots including Toronto, Ottawa, Peel Region and York Region.
+
+------
+
+#### Wednesday, 7 October
+## General
+[Risk of severe COVID may depend on your type of asthma, experts say](https://medicalxpress.com/news/2020-10-severe-covid-asthma-experts.html)
+
+[Artificial lung helps researchers investigate how COVID-19 causes blood clots](https://medicalxpress.com/news/2020-10-artificial-lung-covid-blood-clots.html)
+
+------
+
 #### Tuesday, 6 October
 ## General
 [Musicians may need more than social distancing to stay safe on stage](https://medicalxpress.com/news/2020-10-musicians-social-distancing-safe-stage.html)

@@ -6,7 +6,7 @@
 
 ## Canada
 ![Image](https://raw.githubusercontent.com/RealMayankBansal/ncovlaunchpad/master/resources/covidCasesCanada.png)
-Retrieved from https://www.macleans.ca/society/health/coronavirus-in-canada-these-charts-show-how-our-fight-to-flatten-the-curve-is-going/
+Retrieved from [https://www.macleans.ca/society/health/coronavirus-in-canada-these-charts-show-how-our-fight-to-flatten-the-curve-is-going/](https://www.macleans.ca/society/health/coronavirus-in-canada-these-charts-show-how-our-fight-to-flatten-the-curve-is-going/)
 
 ## Ontario
 ### [Ontario reports more than 900 new COVID-19 cases, smashing previous record](https://toronto.ctvnews.ca/ontario-reports-more-than-900-new-covid-19-cases-smashing-previous-record-1.5139403?cache=ftdpqpcfvtwjihs)

@@ -1,3 +1,19 @@
+#### Friday, 9 October
+## General
+[Do cloth masks work? Only if you machine wash them after use](https://medicalxpress.com/news/2020-10-masks-machine.html)
+
+[Stay-at-home orders cut noise exposure nearly in half](https://phys.org/news/2020-10-stay-at-home-noise-exposure.html)
+
+## Ontario
+### [Ontario reports more than 900 new COVID-19 cases, smashing previous record](https://toronto.ctvnews.ca/ontario-reports-more-than-900-new-covid-19-cases-smashing-previous-record-1.5139403?cache=ftdpqpcfvtwjihs)
+_CTV News_
+
+Cases of COVID-19 in Ontario reach a new daily high for the second day in a row as the province reports 939 infections on Friday. Of the new cases, the majority (358) are reported to be in people between the ages of 20 and 39.
+
+Because of the recent significant increase in cases, the province is expected to impose new public health restrictions on Ontario's hotspots. These restrictions, would restrict indoor dining and close gyms for 28 days in Toronto, Peel Region and Ottawa.
+
+------
+
 #### Thursday, 8 October
 ## General
 [Coronavirus antibodies last at least three months after infection, study suggests](https://medicalxpress.com/news/2020-10-coronavirus-antibodies-months-infection.html)
@@ -9,6 +25,7 @@
 _CTV News_
 
 Ontario health officials are reporting 797 new cases of COVID-19 on Thursday, breaking the previous single day high on October 2nd of 732 infections.
+
 Most of the new cases continue to be reported in Ontarios four hotspots including Toronto, Ottawa, Peel Region and York Region.
 
 ------

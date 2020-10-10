@@ -4,6 +4,10 @@
 
 [Stay-at-home orders cut noise exposure nearly in half](https://phys.org/news/2020-10-stay-at-home-noise-exposure.html)
 
+## Canada
+![Image](https://raw.githubusercontent.com/RealMayankBansal/ncovlaunchpad/master/resources/covidCasesCanada.png)
+Retrieved from https://www.macleans.ca/society/health/coronavirus-in-canada-these-charts-show-how-our-fight-to-flatten-the-curve-is-going/
+
 ## Ontario
 ### [Ontario reports more than 900 new COVID-19 cases, smashing previous record](https://toronto.ctvnews.ca/ontario-reports-more-than-900-new-covid-19-cases-smashing-previous-record-1.5139403?cache=ftdpqpcfvtwjihs)
 _CTV News_

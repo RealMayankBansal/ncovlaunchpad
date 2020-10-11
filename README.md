@@ -1,3 +1,11 @@
+#### Saturday, 10 October
+## General
+[New coronavirus can infect your eyes as well as your lungs](https://medicalxpress.com/news/2020-10-coronavirus-infect-eyes-lungs.html)
+
+[Lesson not learned: Europe unprepared as 2nd virus wave hits](https://medicalxpress.com/news/2020-10-lesson-europe-unprepared-2nd-virus.html)
+
+------
+
 #### Friday, 9 October
 ## General
 [Do cloth masks work? Only if you machine wash them after use](https://medicalxpress.com/news/2020-10-masks-machine.html)

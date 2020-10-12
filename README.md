@@ -1,3 +1,21 @@
+#### Sunday, 11 October
+## General
+[Bacteria-fighting cells in the airways boosts infection risk from viruses](https://medicalxpress.com/news/2020-10-bacteria-fighting-cells-airways-boosts-infection.html)
+
+[New research on SARS-CoV-2 virus 'survivability'](https://medicalxpress.com/news/2020-10-sars-cov-virus-survivability.html)
+![Image](https://scx1.b-cdn.net/csz/news/800/2020/1-cnewresearch.jpg)
+Credit: CSIRO
+
+## Ontario
+### [Ontario reports decrease in daily COVID-19 cases for second day after record high](https://toronto.ctvnews.ca/ontario-reports-decrease-in-daily-covid-19-cases-for-second-day-after-record-high-1.5141451)
+_CTV News_
+
+Ontario sees another dip in cases of COVID-10 for the second day in a row on Sunday as the province confirms 649 cases.
+
+One more feath confirmed on Sunday brings the total death toll related to COVID-19 to 3,005. Of these deaths, 12 were people between the ages of 20 and 39. 
+
+------
+
 #### Saturday, 10 October
 ## General
 [New coronavirus can infect your eyes as well as your lungs](https://medicalxpress.com/news/2020-10-coronavirus-infect-eyes-lungs.html)

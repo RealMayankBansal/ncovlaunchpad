@@ -4,6 +4,7 @@
 
 [New research on SARS-CoV-2 virus 'survivability'](https://medicalxpress.com/news/2020-10-sars-cov-virus-survivability.html)
 ![Image](https://scx1.b-cdn.net/csz/news/800/2020/1-cnewresearch.jpg)
+
 Credit: CSIRO
 
 ## Ontario

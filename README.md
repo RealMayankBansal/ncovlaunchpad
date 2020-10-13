@@ -1,3 +1,17 @@
+#### Monday, 12 October
+## General
+[Age does not contribute to COVID-19 susceptibility, study finds](https://medicalxpress.com/news/2020-10-age-contribute-covid-susceptibility.html)
+
+## Durham Region
+### [Durham reports 12 new COVID-19 cases on Monday; active case count at 88](https://www.durhamradionews.com/archives/129716)
+_Durham Radio News_
+
+The Durham Region Health Department is reporting 12 new cases of COVID-19 on Monday. 
+
+The active case count has increased to 88. Four people are in the hospital and one of those patients is in the intensive care unit.
+
+------
+
 #### Sunday, 11 October
 ## General
 [Bacteria-fighting cells in the airways boosts infection risk from viruses](https://medicalxpress.com/news/2020-10-bacteria-fighting-cells-airways-boosts-infection.html)

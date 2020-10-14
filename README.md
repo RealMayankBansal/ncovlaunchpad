@@ -1,3 +1,11 @@
+#### Tuesday, 13 October
+## General
+[Infecting volunteers with coronavirus may be one way to test potential vaccines. But there are risks](https://medicalxpress.com/news/2020-10-infecting-volunteers-coronavirus-potential-vaccines.html)
+
+[COVID-19 frequently causes neurological injuries](https://medicalxpress.com/news/2020-10-covid-frequently-neurological-injuries.html)
+
+------
+
 #### Monday, 12 October
 ## General
 [Age does not contribute to COVID-19 susceptibility, study finds](https://medicalxpress.com/news/2020-10-age-contribute-covid-susceptibility.html)

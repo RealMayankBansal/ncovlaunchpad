@@ -1,3 +1,19 @@
+#### Wednesday, 14 October
+## General
+[Researchers model spread of SARS-CoV-2 virus in various temperatures and relative humidities](https://medicalxpress.com/news/2020-10-sars-cov-virus-temperatures-relative-humidities.html)
+
+## Ontario
+### [Ontario reports 721 new COVID-19 cases despite testing drop](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-october-14-update-1.5761559)
+_CBC News_
+
+Ontario reported 721 new cases of COVID-10 on Wednesday, despite a significant decrease in the number of labs being processed daily. The province processed just 32,200 tests on Tuesday, falling short of their goal of processing 50,000 tests per day by mid-October. 
+
+As the province's seven-day positivity rate average is 2.2 per cent, Barbara Yaffe, Associate Chief Medical Officer of Health, calls the figure "worrisome". On Wednesday, the positivity rate average increased by 0.4 percent, now sitting at three per cent.
+
+![Image](https://raw.githubusercontent.com/RealMayankBansal/ncovlaunchpad/master/resources/covidOntarioCases14%3A10%3A2020.png)
+
+------
+
 #### Tuesday, 13 October
 ## General
 [Infecting volunteers with coronavirus may be one way to test potential vaccines. But there are risks](https://medicalxpress.com/news/2020-10-infecting-volunteers-coronavirus-potential-vaccines.html)

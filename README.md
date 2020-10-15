@@ -13,7 +13,9 @@ As the province's seven-day positivity rate average is 2.2 per cent, Barbara Yaf
 ![Image](https://raw.githubusercontent.com/RealMayankBansal/ncovlaunchpad/master/resources/covidOntarioCases14%3A10%3A2020.png)
 
 Retrieved from CBC News
+
 "Chart: Mike Crawley
+
 Source: Ontariio Ministry of Health"
 
 ------

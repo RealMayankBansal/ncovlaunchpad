@@ -11,6 +11,9 @@ Ontario reported 721 new cases of COVID-10 on Wednesday, despite a significant d
 As the province's seven-day positivity rate average is 2.2 per cent, Barbara Yaffe, Associate Chief Medical Officer of Health, calls the figure "worrisome". On Wednesday, the positivity rate average increased by 0.4 percent, now sitting at three per cent.
 
 ![Image](https://raw.githubusercontent.com/RealMayankBansal/ncovlaunchpad/master/resources/covidOntarioCases14%3A10%3A2020.png)
+Retrieved from CBC News
+"Chart: Mike Crawley
+Source: Ontariio Ministry of Health"
 
 ------
 

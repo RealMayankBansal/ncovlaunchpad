@@ -1,3 +1,19 @@
+#### Thursday, 15 October
+## General
+[Does the flu vaccine affect my chances of getting COVID-19?](https://medicalxpress.com/news/2020-10-flu-vaccine-affect-chances-covid-.html)
+
+## Ontario
+### [Ontario sees 783 new COVID-19 cases with 'concerning' rise in York Region](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-october-15-report-1.5763191)
+_CBC News_
+
+Ontario is reporting 783 new cases of COVID-19 on Thursday.
+
+The newly confirmed infections are concentrated in the following spots four public health units: Toronto, Peel Region, York Region, and Ottawa.
+
+QUOTE: "A total of 451 of the province's 4,828 publicly-funded schools, or about 9.34 per cent, have reported at least one case of COVID-19. Five schools are currently closed due to the illness." 
+
+------
+
 #### Wednesday, 14 October
 ## General
 [Researchers model spread of SARS-CoV-2 virus in various temperatures and relative humidities](https://medicalxpress.com/news/2020-10-sars-cov-virus-temperatures-relative-humidities.html)

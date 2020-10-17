@@ -1,3 +1,9 @@
+#### Friday, 16 October
+## General
+[In recovering COVID-19 patients, antibodies fade quickly](https://medicalxpress.com/news/2020-10-recovering-covid-patients-antibodies-quickly.html)
+
+------
+
 #### Thursday, 15 October
 ## General
 [Does the flu vaccine affect my chances of getting COVID-19?](https://medicalxpress.com/news/2020-10-flu-vaccine-affect-chances-covid-.html)

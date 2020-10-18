@@ -1,3 +1,19 @@
+#### Saturday, 17 October
+## General
+[Curfew begins for 20 million French people](https://medicalxpress.com/news/2020-10-curfew-million-french-people.html)
+
+[Millions in England under new virus restrictions](https://medicalxpress.com/news/2020-10-millions-england-virus-restrictions.html)
+
+## Ontario
+### [Ontario records single-day uptick in new COVID-19 cases](https://toronto.ctvnews.ca/ontario-records-single-day-uptick-in-new-covid-19-cases-1.5149358)
+_CTV News_
+
+Ontario is logging 805 new infections of COVID-19 on saturday, following 4 consecutive days with case numbers in the 700s.
+
+Health officials reported that ten more deaths have been recorded due to COVID-19, including five residents in long-term care homes. There are 278 people currently being treated for COVID-19 in Ontario hospitals. Of those patients, 72 are in the intensive care unit and 42 are breathing with the assistance of a ventilator. 
+
+------
+
 #### Friday, 16 October
 ## General
 [In recovering COVID-19 patients, antibodies fade quickly](https://medicalxpress.com/news/2020-10-recovering-covid-patients-antibodies-quickly.html)

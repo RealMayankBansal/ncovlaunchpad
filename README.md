@@ -1,3 +1,9 @@
+#### Sunday, 18 October
+## General
+[Coronavirus survives on skin five times longer than flu: study](https://medicalxpress.com/news/2020-10-coronavirus-survives-skin-longer-flu.html)
+
+------
+
 #### Saturday, 17 October
 ## General
 [Curfew begins for 20 million French people](https://medicalxpress.com/news/2020-10-curfew-million-french-people.html)

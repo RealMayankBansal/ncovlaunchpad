@@ -1,3 +1,19 @@
+#### Monday, 19 October
+## General
+[COVID-19 masks FAQ: How can cloth stop a tiny virus? What's the best fabric? Do they protect the wearer?](https://medicalxpress.com/news/2020-10-covid-masks-faq-tiny-virus.html)
+
+[B.C. announces 2nd wave of COVID-19, as it confirms 499 new cases and 2 more deaths over the weekend](https://www.cbc.ca/news/canada/british-columbia/covid-19-update-bc-oct-19-1.5768415)
+
+## Ontario
+### [Ontario reports spike in new COVID-19 cases after one-day drop](https://toronto.ctvnews.ca/ontario-reports-spike-in-new-covid-19-cases-after-one-day-drop-1.5150827)
+_CTV News_
+
+Health officials are reporting 704 new cases of COVID-19 on Monday, a slight increase from the 658 infections confirmed on Sunday.
+
+Ontario falls short of their goal of completing 50,000 tests daily by the middle of October as only 31,864 were completed on in the previous 24-hour period. The test positive rate for Monday's cases was 2.2 per cent.
+
+------
+
 #### Sunday, 18 October
 ## General
 [Coronavirus survives on skin five times longer than flu: study](https://medicalxpress.com/news/2020-10-coronavirus-survives-skin-longer-flu.html)

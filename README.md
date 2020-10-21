@@ -1,3 +1,21 @@
+#### Tuesday, 20 October
+## General
+[How COVID-19 cough clouds travel in the presence and absence of face masks: study](https://phys.org/news/2020-10-covid-clouds-presence-absence-masks.html)
+
+![Image](https://scx1.b-cdn.net/csz/news/800/2020/covid19cough.jpg)
+
+[Scientists raise alarm over signs of vaccine 'hesitancy'](https://medicalxpress.com/news/2020-10-scientists-alarm-vaccine-hesitancy.html)
+
+## Ontario
+### [Ontario records another significant spike in new COVID-19 cases](https://toronto.ctvnews.ca/ontario-records-another-significant-spike-in-new-covid-19-cases-1.5152443)
+_CTV News_
+
+Health officials are reporting 821 new infections on Tuesday, which is a large increase from the 704 and 658 cases reported on Monday and Sunday, respectively.
+
+This increase in cases is seen as Ontario only process 24,000 swabs in the previous 24-hour period, less than half their mid-October goal. Today's positivity rate, despite the significant decrease in labs processed, is 3.4 percent.
+
+------
+
 #### Monday, 19 October
 ## General
 [COVID-19 masks FAQ: How can cloth stop a tiny virus? What's the best fabric? Do they protect the wearer?](https://medicalxpress.com/news/2020-10-covid-masks-faq-tiny-virus.html)
@@ -10,7 +28,7 @@ _CTV News_
 
 Health officials are reporting 704 new cases of COVID-19 on Monday, a slight increase from the 658 infections confirmed on Sunday.
 
-Ontario falls short of their goal of completing 50,000 tests daily by the middle of October as only 31,864 were completed on in the previous 24-hour period. The test positive rate for Monday's cases was 2.2 per cent.
+Ontario falls short of their goal of completing 50,000 tests daily by the middle of October as only 31,864 were completed on in the previous 24-hour period. The test positive rate for Monday's cases was 2.2 percent.
 
 ------
 

@@ -2,7 +2,7 @@
 ## General
 [How COVID-19 cough clouds travel in the presence and absence of face masks: study](https://phys.org/news/2020-10-covid-clouds-presence-absence-masks.html)
 
-![Image](https://scx1.b-cdn.net/csz/news/800/2020/covid19cough.jpg)
+![Image](https://scx1.b-cdn.net/csz/news/800/2020/covid19cough.jpg) Retrieved from phys.org
 
 [Scientists raise alarm over signs of vaccine 'hesitancy'](https://medicalxpress.com/news/2020-10-scientists-alarm-vaccine-hesitancy.html)
 

@@ -1,3 +1,27 @@
+#### Friday, 22 October
+## General
+[Coronavirus mutations show early safety measures and restrictions limited viral spread](https://medicalxpress.com/news/2020-10-coronavirus-mutations-early-safety-restrictions.html)
+
+[A post-pandemic path to solving the nursing home crisis](https://medicalxpress.com/news/2020-10-post-pandemic-path-nursing-home-crisis.html)
+
+## Ontario
+### [Ontario reports 841 more COVID-19 cases, 7-day average on the rise](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-october-22-1.5772371)
+_CBC News_
+
+Ontario is reporting 841 new cases of COVID-19 on Thursday, the province's second highest number of daily cases since the second wave of the virus began.
+
+The seven-day average of new cases has consistently risen over the past four days and is currently approximately 761.
+
+Today's new cases are concentrated in the areas of Toronto, Peel Region, Ottawa and York Region. Durham and Halton region again saw double-digit increases with 29 new cases in both areas.
+
+------
+
+#### Wednesday, 21 October
+## General
+[Neuropilin-1 drives SARS-CoV-2 infectivity, finds breakthrough study](https://medicalxpress.com/news/2020-10-neuropilin-sars-cov-infectivity-breakthrough.html)
+
+------
+
 #### Tuesday, 20 October
 ## General
 [How COVID-19 cough clouds travel in the presence and absence of face masks: study](https://phys.org/news/2020-10-covid-clouds-presence-absence-masks.html)

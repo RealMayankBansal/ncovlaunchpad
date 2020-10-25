@@ -1,3 +1,21 @@
+#### Saturday, 23 October
+## General
+[McMaster research on medieval plagues sheds new light on how COVID-19 spreads](https://globalnews.ca/news/7419544/mcmaster-research-coronavirus-medieval-plague/)
+
+[Sewage research signals early warning of coronavirus outbreaks](https://medicalxpress.com/news/2020-10-sewage-early-coronavirus-outbreaks.html)
+
+## Ontario
+### [Ontario sets grim new record as COVID-19 cases spike to unprecedented levels](https://toronto.ctvnews.ca/ontario-sets-grim-new-record-as-covid-19-cases-spike-to-unprecedented-levels-1.5159260)
+_CTV News_
+
+Health officials confirmed 978 new cases of COVID-19 on Saturday, breaking the previous single-day record of 939 infections back on October 9.
+
+The majority of new cases (364) were in people between the ages of 20 and 39. There were also 139 infections reported in the under 19 age group.
+
+Ontario is also reporting seven new COVID-19 outbreaks in long-term care homes.
+
+------
+
 #### Friday, 22 October
 ## General
 [Coronavirus mutations show early safety measures and restrictions limited viral spread](https://medicalxpress.com/news/2020-10-coronavirus-mutations-early-safety-restrictions.html)

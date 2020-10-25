@@ -1,4 +1,4 @@
-#### Saturday, 23 October
+#### Saturday, 24 October
 ## General
 [McMaster research on medieval plagues sheds new light on how COVID-19 spreads](https://globalnews.ca/news/7419544/mcmaster-research-coronavirus-medieval-plague/)
 
@@ -16,7 +16,7 @@ Ontario is also reporting seven new COVID-19 outbreaks in long-term care homes.
 
 ------
 
-#### Friday, 22 October
+#### Friday, 23 October
 ## General
 [Coronavirus mutations show early safety measures and restrictions limited viral spread](https://medicalxpress.com/news/2020-10-coronavirus-mutations-early-safety-restrictions.html)
 

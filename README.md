@@ -1,3 +1,14 @@
+#### Sunday, 25 October
+## Ontario
+### [Ontario sets new record as COVID-19 cases spike to unprecedented levels](https://toronto.ctvnews.ca/ontario-sets-new-record-as-covid-19-cases-spike-to-unprecedented-levels-1.5159260)
+_CTV News_
+
+Ontario has reported another significant increase in cases of COVID-19, breaking the previous record of 978 new cases set on October 24.
+
+The majority of the cases were found in the province's hotspots: Toronto, Peel Region, York Region and Ottawa. Other region reporting a significant amount of cases (51) is Durham Region.
+
+------
+
 #### Saturday, 24 October
 ## General
 [McMaster research on medieval plagues sheds new light on how COVID-19 spreads](https://globalnews.ca/news/7419544/mcmaster-research-coronavirus-medieval-plague/)

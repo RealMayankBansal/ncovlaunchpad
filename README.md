@@ -1,3 +1,9 @@
+#### Monday, 26 October
+## General
+[CRISPR screen identifies genes, drug targets to protect against SARS-CoV-2 infection](https://phys.org/news/2020-10-crispr-screen-genes-drug-sars-cov-.html)
+
+------
+
 #### Sunday, 25 October
 ## Ontario
 ### [Ontario sets new record as COVID-19 cases spike to unprecedented levels](https://toronto.ctvnews.ca/ontario-sets-new-record-as-covid-19-cases-spike-to-unprecedented-levels-1.5159260)

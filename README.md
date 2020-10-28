@@ -1,3 +1,9 @@
+#### Tuesday, 27 October
+## General
+[Coronaviruses are masters of mimicry, new study finds](https://phys.org/news/2020-10-coronaviruses-masters-mimicry.html)
+
+------
+
 #### Monday, 26 October
 ## General
 [CRISPR screen identifies genes, drug targets to protect against SARS-CoV-2 infection](https://phys.org/news/2020-10-crispr-screen-genes-drug-sars-cov-.html)

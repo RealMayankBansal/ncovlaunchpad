@@ -1,3 +1,30 @@
+#### Thursday, 29 October
+## General
+[Scientists discover key pathway in lysosomes that coronaviruses use to exit cells](https://phys.org/news/2020-10-scientists-key-pathway-lysosomes-coronaviruses.html)
+
+## Ontario
+### [Health officials reveal new projections as Ontario sees 934 more COVID-19 cases](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-october-29-modelling-1.5781575)
+_CBC News_
+
+Ontario reported 934 new cases of COVID-19 on Thursday, bringing the seven-day average of daily cases to nearly 900.
+
+At the same time, more than 2,000 long-term care residents have died with COVID-19.
+
+These cases reflect a significant increase in the COVID-19 test positivity rate.
+![Image](https://github.com/RealMayankBansal/ncovlaunchpad/blob/master/resources/covidTestPositivityRate.png?raw=true)
+
+Source: CBC, Ontario Ministry of Health
+
+------
+
+#### Wednesday, 28 October
+## General
+[Study reveals mouth as primary source of COVID-19 infection, spread](https://medicalxpress.com/news/2020-10-reveals-mouth-primary-source-covid-.html)
+
+[Close to 17 percent of patients recovered from COVID-19 could still carry virus](https://medicalxpress.com/news/2020-10-percent-patients-recovered-covid-virus.html)
+
+------
+
 #### Tuesday, 27 October
 ## General
 [Coronaviruses are masters of mimicry, new study finds](https://phys.org/news/2020-10-coronaviruses-masters-mimicry.html)

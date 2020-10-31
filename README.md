@@ -1,3 +1,11 @@
+#### Friday, 30 October
+## General
+[Coronavirus mutation may have made it more contagious: study](https://medicalxpress.com/news/2020-10-coronavirus-mutation-contagious.html)
+
+[COVID-19 deaths: Infection fatality ratio is about 1% says new report](https://medicalxpress.com/news/2020-10-covid-deaths-infection-fatality-ratio.html)
+
+------
+
 #### Thursday, 29 October
 ## General
 [Scientists discover key pathway in lysosomes that coronaviruses use to exit cells](https://phys.org/news/2020-10-scientists-key-pathway-lysosomes-coronaviruses.html)

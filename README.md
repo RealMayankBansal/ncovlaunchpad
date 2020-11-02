@@ -1,3 +1,20 @@
+#### Sunday, 1 November
+## Ontario
+### [Ontario sees just under 1,000 new COVID-19 cases, 9 new deaths](https://www.cbc.ca/news/canada/toronto/covid-19-ontario-numbers-report-nov-1-1.5785473)
+_CBC News_
+
+Ontario reported 977 new cases of COVID-19 on Sunday, marking the fourth-highest daily infections reported since the beginning of the pandemic.
+
+Health officials and Brampton's mayor are sounding the alarm over the city's 9.6% positivity rate. Brampton Mayor Patrick Brown says the city has a high percentage of essential workers which contributes to the high case counts the city is seeing. Despite this, experts say that transmission rates are considered under control if the positivity rate is five percent.
+
+------
+
+#### Saturday, 31 October
+## General
+[COVID-19 patients infect half of household: CDC study](https://medicalxpress.com/news/2020-10-faster-wider-covid-households.html)
+
+------
+
 #### Friday, 30 October
 ## General
 [Coronavirus mutation may have made it more contagious: study](https://medicalxpress.com/news/2020-10-coronavirus-mutation-contagious.html)

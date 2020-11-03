@@ -1,3 +1,9 @@
+#### Monday, 2 November
+## General
+[Get your flu shot: It might shield you from severe COVID](https://medicalxpress.com/news/2020-11-flu-shot-shield-severe-covid.html)
+
+------
+
 #### Sunday, 1 November
 ## Ontario
 ### [Ontario sees just under 1,000 new COVID-19 cases, 9 new deaths](https://www.cbc.ca/news/canada/toronto/covid-19-ontario-numbers-report-nov-1-1.5785473)

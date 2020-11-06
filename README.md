@@ -1,3 +1,15 @@
+#### Wednesday, 4 November
+## General
+[How contagious are kids with COVID? Short answer: We don't know](https://medicalxpress.com/news/2020-11-contagious-kids-covid-short-dont.html)
+
+------
+
+#### Tuesday, 3 November
+## General
+[Europe's coronavirus infections top 11 million](https://medicalxpress.com/news/2020-11-europe-coronavirus-infections-million.html)
+
+------
+
 #### Monday, 2 November
 ## General
 [Get your flu shot: It might shield you from severe COVID](https://medicalxpress.com/news/2020-11-flu-shot-shield-severe-covid.html)

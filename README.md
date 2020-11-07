@@ -1,3 +1,26 @@
+#### Saturday, 7 November
+## Ontario
+### [Ontario reports single-day record of 1,132 new COVID-19 cases as restrictions loosen in York, Ottawa](https://www.cbc.ca/news/canada/toronto/ontario-covid-19-update-numbers-report-nov-11-1.5793898)
+_CBC News_
+
+Ontario reported 1,132 new cases of COVID-19 on Saturday, surpassing the previous single day record of 1050 new infections which was reported on Tuesday. 
+
+The 1,132 new cases comes as the province conducts 39,165 tests since the last daily report, which has roughly a 2.9% positivity rate.
+
+------
+
+#### Friday, 6 November
+## General
+[Tracking virus mutations reveals success of stay-at-home orders](https://medicalxpress.com/news/2020-11-tracking-virus-mutations-reveals-success.html)
+
+------
+
+#### Thursday, 5 November
+## General
+[Data analysis identifies the 'mother' of all SARS-CoV-2 genomes](https://medicalxpress.com/news/2020-11-analysis-mother-sars-cov-genomes.html)
+
+------
+
 #### Wednesday, 4 November
 ## General
 [How contagious are kids with COVID? Short answer: We don't know](https://medicalxpress.com/news/2020-11-contagious-kids-covid-short-dont.html)

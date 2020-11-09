@@ -1,3 +1,18 @@
+#### Sunday, 8 November
+## Ontario
+### [Ontario reports 1,328 new COVID-19 cases, marking new record for 2nd straight day](https://www.cbc.ca/news/canada/toronto/ontario-covid-19-numbers-report-nov-8-1.5794404)
+_CBC News_
+
+Ontario reported 1,328 cases of COVID-19 on Sunday, marking a new established single-day record for the second day in a row.
+
+Health Minister Christine Elliott states that the province processed under 37,600 tests since its last daily report, bringing the positivity rate to greater than 3.5%.
+
+![Image](https://raw.githubusercontent.com/RealMayankBansal/ncovlaunchpad/master/resources/November%208%20CovidTestPositivityRate.png)
+
+Source: CBC News, Ontario Ministry of Health
+
+------
+
 #### Saturday, 7 November
 ## Ontario
 ### [Ontario reports single-day record of 1,132 new COVID-19 cases as restrictions loosen in York, Ottawa](https://www.cbc.ca/news/canada/toronto/ontario-covid-19-update-numbers-report-nov-11-1.5793898)

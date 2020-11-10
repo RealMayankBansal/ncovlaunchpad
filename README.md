@@ -1,3 +1,14 @@
+#### Monday, 9 November
+## Ontario
+### [Ontario reports 1,242 new COVID-19 cases, new testing centres coming to Peel Region](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-november-9-peel-testing-1.5795027)
+_CBC News_
+
+Ontario reported another 1,242 cases of COVID-19 on Monday, the second-most daily case number after the province set a new record-high number yesterday.
+
+The new cases comes as the province processes just 28,400 tests, just over half of the existing capacity and nowhere close to the mid-November goal of processing 68,000 tests daily. This statistic translates to a positivity rate of 4.4%.
+
+------
+
 #### Sunday, 8 November
 ## Ontario
 ### [Ontario reports 1,328 new COVID-19 cases, marking new record for 2nd straight day](https://www.cbc.ca/news/canada/toronto/ontario-covid-19-numbers-report-nov-8-1.5794404)

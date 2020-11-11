@@ -1,3 +1,14 @@
+#### Tuesday, 10 november
+## Ontario
+### [Ontario logs another record-breaking number of new COVID-19 cases](https://toronto.ctvnews.ca/ontario-logs-another-record-breaking-number-of-new-covid-19-cases-1.5182353)
+_CTV News_
+
+Ontario is reporting 1,388 new cases on Tuesday, setting another daily record since the beginnign of the pandemic.
+
+In the last 24 hours, officials processed a total of 29,125 COVID-19 tests which is significantly lower than the province's goal of 50,000 per day. Today's case count brings the province's positivity rate to 5.7%, the highest single-day positivity rate since May 24.
+
+------
+
 #### Monday, 9 November
 ## Ontario
 ### [Ontario reports 1,242 new COVID-19 cases, new testing centres coming to Peel Region](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-november-9-peel-testing-1.5795027)

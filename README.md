@@ -1,3 +1,13 @@
+#### Wednesay, 11 November
+## Ontario
+### [Ontario breaks another COVID-19 record with more than 1,400 new cases](https://toronto.ctvnews.ca/ontario-breaks-another-covid-19-record-with-more-than-1-400-new-cases-1.5183959)
+_CTV News_
+
+Ontario logged 1,426 new cases of COVID-19 on Wednesday, marking the sixth straight day of case counts over 1,000.
+
+In the last 24-hour period, 36,707 tests were processed. Ontario's positivity rate dips to 3.9% compared to the record 5.7% seen a day earlier.
+
+
 #### Tuesday, 10 november
 ## Ontario
 ### [Ontario logs another record-breaking number of new COVID-19 cases](https://toronto.ctvnews.ca/ontario-logs-another-record-breaking-number-of-new-covid-19-cases-1.5182353)

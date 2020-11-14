@@ -1,3 +1,17 @@
+#### Friday, 13 November
+## General
+
+[COVID-19 cases hit 1st Caribbean cruise since pandemic](https://medicalxpress.com/news/2020-11-covid-cases-1st-caribbean-cruise.html)
+
+------
+
+#### Thursday, 12 November
+## General
+[COVID-19 vaccines are coming – how will we know they work and are safe?](https://medicalxpress.com/news/2020-11-covid-vaccines-safe.html)
+
+------
+
+
 #### Wednesay, 11 November
 ## Ontario
 ### [Ontario breaks another COVID-19 record with more than 1,400 new cases](https://toronto.ctvnews.ca/ontario-breaks-another-covid-19-record-with-more-than-1-400-new-cases-1.5183959)

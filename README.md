@@ -1,3 +1,23 @@
+#### Sunday, 15 November
+## General
+[Mexico reaches 1 million virus cases, nears 100,000 deaths](https://medicalxpress.com/news/2020-11-mexico-million-virus-cases-nears.html)
+
+## Ontario
+### [Ontario reports 1,248 COVID-19 cases and 29 new deaths on Sunday](https://www.cbc.ca/news/canada/toronto/ontario-covid19-update-nov15-1.5802746)
+_CBC News_
+
+Ontario reported 1,248 new cases of COVID-19 on Sunday, with more than 42,200 tests being complete in the past 24-hour period.
+
+New modelling released on Thursday showed that 6,500 daily new cases are possible by mid-December if no further action is taken.
+
+------
+
+#### Saturday, 14 November
+## General
+[CDC: Wearing a mask could keep you from catching virus](https://medicalxpress.com/news/2020-11-cdc-mask-virus.html)
+
+------
+
 #### Friday, 13 November
 ## General
 

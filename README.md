@@ -1,3 +1,9 @@
+#### Monday, 16 November
+## General
+[Second virus vaccine shows striking success in US tests](https://medicalxpress.com/news/2020-11-coronavirus-vaccine-early-success.html)
+
+------
+
 #### Sunday, 15 November
 ## General
 [Mexico reaches 1 million virus cases, nears 100,000 deaths](https://medicalxpress.com/news/2020-11-mexico-million-virus-cases-nears.html)

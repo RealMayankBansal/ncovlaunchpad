@@ -1,3 +1,20 @@
+#### Wednesday, 18 November
+## Ontario
+### [Ontario reports 1,417 new COVID-19 cases; 32 new deaths](https://www.cp24.com/news/ontario-reports-1-417-new-covid-19-cases-32-new-deaths-1.5193837)
+_CP24_
+
+Ontario reported 1,417 new cases of COVID-19, along with 32 new deaths on Wednesday.
+
+As provincial labs processed 33,440 tests in the past 24-hour period, a positivity rate of 4.5 percent is generated when duplicate tests and errors are taken into account.
+
+------
+
+#### Tuesday, 17 November
+## General
+[What is it like to take part in a vaccine trial?](https://medicalxpress.com/news/2020-11-vaccine-trial.html)
+
+------
+
 #### Monday, 16 November
 ## General
 [Second virus vaccine shows striking success in US tests](https://medicalxpress.com/news/2020-11-coronavirus-vaccine-early-success.html)

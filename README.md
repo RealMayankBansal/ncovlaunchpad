@@ -1,3 +1,21 @@
+#### Saturday, 21 November
+## General
+[What does emergency use of a COVID-19 vaccine mean?](https://medicalxpress.com/news/2020-11-emergency-covid-vaccine.html)
+
+------
+
+#### Friday, 20 November
+## General
+[COVID-19 vaccines were developed in record time – but are these game-changers safe?](https://medicalxpress.com/news/2020-11-covid-vaccines-game-changers-safe.html)
+
+------
+
+#### Thursday, 19 November
+## General
+[Australian study suggests true COVID-19 infection rate is 6.2 times higher than official tallies (Update)](https://medicalxpress.com/news/2020-11-australian-true-covid-infection-percent.html)
+
+------
+
 #### Wednesday, 18 November
 ## Ontario
 ### [Ontario reports 1,417 new COVID-19 cases; 32 new deaths](https://www.cp24.com/news/ontario-reports-1-417-new-covid-19-cases-32-new-deaths-1.5193837)

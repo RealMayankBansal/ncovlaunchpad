@@ -1,3 +1,14 @@
+#### Monday, 23 November
+## Ontario
+### [Ontario reports nearly 1,600 new coronavirus cases as province sets new single-day record](https://globalnews.ca/news/7478655/ontario-coronavirus-cases-november-23-covid19/)
+_Global News_
+
+Ontario reported 1,589 new cases of COVID-19, setting a new single-day record of cases to date.
+
+Ontario has 507 people in hospitals due to COVID-19, with 156 patients in an intensive care unit and 92 patients in ICUs on a ventilator. These numbers have orverall steadily increased over the past several weeks.
+
+------
+
 #### Saturday, 21 November
 ## General
 [What does emergency use of a COVID-19 vaccine mean?](https://medicalxpress.com/news/2020-11-emergency-covid-vaccine.html)

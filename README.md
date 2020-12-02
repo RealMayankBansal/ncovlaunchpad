@@ -1,3 +1,27 @@
+#### Tuesday, 1 December
+## General
+[Out of many COVID-19 tests, which one to choose?](https://medicalxpress.com/news/2020-12-covid-.html)
+
+------
+
+#### Monday, 30 November
+## General
+[Release of immature blood cells from bone marrow as a signature of severe COVID-19](https://medicalxpress.com/news/2020-11-immature-blood-cells-bone-marrow.html)
+
+------
+
+#### Saturday, 28 November
+## General
+[Scotland begins student virus tests before Christmas](https://medicalxpress.com/news/2020-11-scotland-student-virus-christmas.html)
+
+------
+
+#### Friday, 27 November
+## General
+[Ireland eases Covid-19 lockdown restrictions ahead of Christmas](https://medicalxpress.com/news/2020-11-ireland-eases-covid-lockdown-restrictions.html)
+
+------
+
 #### Monday, 23 November
 ## Ontario
 ### [Ontario reports nearly 1,600 new coronavirus cases as province sets new single-day record](https://globalnews.ca/news/7478655/ontario-coronavirus-cases-november-23-covid19/)

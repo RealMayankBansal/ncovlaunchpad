@@ -1,3 +1,9 @@
+#### Thursday, 3 December
+## General
+[First in line for Covid vaccine? Some US health care workers say no](https://medicalxpress.com/news/2020-12-line-covid-vaccine-health-workers.html)
+
+------
+
 #### Tuesday, 1 December
 ## General
 [Out of many COVID-19 tests, which one to choose?](https://medicalxpress.com/news/2020-12-covid-.html)

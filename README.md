@@ -1,3 +1,21 @@
+#### Tuesday, 8 Decemner
+## Ontario
+### [Ontario reports single-day dip in new COVID-19 cases with fewer than 1,700 infections reported](https://toronto.ctvnews.ca/ontario-reports-single-day-dip-in-new-covid-19-cases-with-fewer-than-1-700-infections-reported-1.5221639)
+_CTV News_
+
+Ontario health officials logged 1,676 new infections on Tuesday, a significant decrease after adding a record-breaking 1,925 infections on Monday.
+
+------
+
+#### Monday, 7 December
+## Ontario
+### [Ontario narrowly sets single-day coronavirus case record for 3rd straight day](https://globalnews.ca/news/7505755/ontario-coronavirus-cases-december-7-covid19/)
+_CBC News_
+
+Ontario sets single-day COVID-19 case record for the third straight day. The province report 1,925 new cases on Monday, setting the province's new record by one case, which was previously set on Saturday with 1,924 cases.
+
+------
+
 #### Thursday, 3 December
 ## General
 [First in line for Covid vaccine? Some US health care workers say no](https://medicalxpress.com/news/2020-12-line-covid-vaccine-health-workers.html)

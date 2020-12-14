@@ -1,3 +1,9 @@
+#### Sunday, 13 December
+## General
+[Researchers rank various mask protection, modifications against COVID-19](https://medicalxpress.com/news/2020-12-mask-modifications-covid-.html)
+
+------
+
 #### Tuesday, 8 Decemner
 ## Ontario
 ### [Ontario reports single-day dip in new COVID-19 cases with fewer than 1,700 infections reported](https://toronto.ctvnews.ca/ontario-reports-single-day-dip-in-new-covid-19-cases-with-fewer-than-1-700-infections-reported-1.5221639)

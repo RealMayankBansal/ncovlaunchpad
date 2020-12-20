@@ -1,3 +1,9 @@
+#### Sunday, 20 December
+## General
+[How can the world allocate COVID-19 vaccines fairly?](https://medicalxpress.com/news/2020-12-world-allocate-covid-vaccines.html)
+
+------
+
 #### Sunday, 13 December
 ## General
 [Researchers rank various mask protection, modifications against COVID-19](https://medicalxpress.com/news/2020-12-mask-modifications-covid-.html)
